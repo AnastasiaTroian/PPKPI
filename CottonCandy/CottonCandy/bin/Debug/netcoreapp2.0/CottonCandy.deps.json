@@ -11069,10 +11069,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
 =======
       "sha512": "sha512-zisTbxitzki256+rKY0myI2T1yLyO9+qAU8P+FXkd8Dv0Iymk484Y9SbwUlyL3igF/bpiCv7SCdv349rN/JbfQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
+>>>>>>> Update setups
       "path": "libuv/1.10.0",
       "hashPath": "libuv.1.10.0.nupkg.sha512"
     },
@@ -11080,10 +11084,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-4dX/zu3Psz9oM3ErU64xfOHuSxOwMxN6q5RabSkeYbX42Yn6dR/kDToqjs+txCRjrfHUxyYjfeJHu+MbCfvAsg==",
 =======
       "sha512": "sha512-KnW9kZcj+GnPA0OCKk6TXqJTXMp8dwtad30akKxI/0oyDZ4isfwt/7WakT0o3VPsU76kg/SFc3OIsReoqPF+9w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-4dX/zu3Psz9oM3ErU64xfOHuSxOwMxN6q5RabSkeYbX42Yn6dR/kDToqjs+txCRjrfHUxyYjfeJHu+MbCfvAsg==",
+>>>>>>> Update setups
       "path": "microsoft.applicationinsights/2.4.0",
       "hashPath": "microsoft.applicationinsights.2.4.0.nupkg.sha512"
     },
@@ -11091,10 +11099,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-kiGmzl9Cav34dF7AHVMoJxdJJQEeLB8KZGNwX1LjImG9iem5hGk4DkHpW7/m9Nh3DrL8IKSL3mqQo+IPqWfMRQ==",
 =======
       "sha512": "sha512-HsN6IUHa3Wg0jltWR7e2N/eji6JmfUTsNiBSoagK5e+nTeXz1Sn5W0P8X7K1cxCAZTK4xHMIUlD/EFk+/7b7Fw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-kiGmzl9Cav34dF7AHVMoJxdJJQEeLB8KZGNwX1LjImG9iem5hGk4DkHpW7/m9Nh3DrL8IKSL3mqQo+IPqWfMRQ==",
+>>>>>>> Update setups
       "path": "microsoft.applicationinsights.aspnetcore/2.1.1",
       "hashPath": "microsoft.applicationinsights.aspnetcore.2.1.1.nupkg.sha512"
     },
@@ -11102,10 +11114,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-RWxdX90MY6tNF8S5lwRvJcHiBMIWwVLCxd4TGIEl3X0yAKaolY2vs4zTCvyCIVkEAMs1aInTgWkYwOjzYvAHWw==",
 =======
       "sha512": "sha512-9dNiUxWKLlOxfk9PLrqg+idGZOkfC6Cc+wv9vieVxvcUMxDX2bRLg85F0p7gCStCwcjRySEBaJIDzktw8S8vkQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-RWxdX90MY6tNF8S5lwRvJcHiBMIWwVLCxd4TGIEl3X0yAKaolY2vs4zTCvyCIVkEAMs1aInTgWkYwOjzYvAHWw==",
+>>>>>>> Update setups
       "path": "microsoft.applicationinsights.dependencycollector/2.4.1",
       "hashPath": "microsoft.applicationinsights.dependencycollector.2.4.1.nupkg.sha512"
     },
@@ -11113,10 +11129,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-3RGQymHmWGNGqhQkvo6JdUJRHpnFIJ27YC0Trce8biuECDFgLqC6rQc2W3jCNQC28MDJQk+GL2jziWklW6Dx2A==",
 =======
       "sha512": "sha512-FkLgYMpsphgiU8WI06wGUNfyuZzpX1NNYdakkC5xceFLbMUzD0t+JlheuXc8pphXemoWVXFbcm4yZEVo4Y743Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-3RGQymHmWGNGqhQkvo6JdUJRHpnFIJ27YC0Trce8biuECDFgLqC6rQc2W3jCNQC28MDJQk+GL2jziWklW6Dx2A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore/2.0.4",
       "hashPath": "microsoft.aspnetcore.2.0.4.nupkg.sha512"
     },
@@ -11124,10 +11144,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-RabNIh47UEndNka3AHGk5APMFN3Ypy0AgBOZjI0OyDJTYzy7bepEUeIPjOGLQ2L/DngCsu93mlTzsxEJ1gTfJg==",
 =======
       "sha512": "sha512-OPSJHX36+/UeRnywuf2mwyv3ike5IeWCn4lpzNCXbrVE0lSm8LLDrU4nzsPUOY24J5AfalOtC53Qci+wZKMQkQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-RabNIh47UEndNka3AHGk5APMFN3Ypy0AgBOZjI0OyDJTYzy7bepEUeIPjOGLQ2L/DngCsu93mlTzsxEJ1gTfJg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.all/2.0.9",
       "hashPath": "microsoft.aspnetcore.all.2.0.9.nupkg.sha512"
     },
@@ -11135,10 +11159,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-k//CUbcwjy8j2Wj08sW0puax6AW9WA2a2d+U0MjYdfmHO+Ux6PtRAxBHIED8hXubzVXy4NYTu5ngYa3dqNoJtA==",
 =======
       "sha512": "sha512-crCgyHtPRRAFR/q/Pt6VU+vQBJDDODlssKOPejfyBQFZj8DFFeWytQqkF1nyHVPN3DF4T9ncRkoBiYBCg253+g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-k//CUbcwjy8j2Wj08sW0puax6AW9WA2a2d+U0MjYdfmHO+Ux6PtRAxBHIED8hXubzVXy4NYTu5ngYa3dqNoJtA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.antiforgery/2.0.3",
       "hashPath": "microsoft.aspnetcore.antiforgery.2.0.3.nupkg.sha512"
     },
@@ -11146,10 +11174,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-YyW0Z5f6MV8hTL0LQd3NAifmNEaiaiIOBEYM8LrlfgIjCJMIlijYDuVzIEDKHqHVUxiYHzsOIwIU7egaJNQDNQ==",
 =======
       "sha512": "sha512-akoYYwkF6f+z48Xig8hKhIHN4j4irDAyf0aYXelMfZty0qx16bC+f87+gLw0+Y2nuSyLvkWZTJsRY4+bl6/qYA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-YyW0Z5f6MV8hTL0LQd3NAifmNEaiaiIOBEYM8LrlfgIjCJMIlijYDuVzIEDKHqHVUxiYHzsOIwIU7egaJNQDNQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.applicationinsights.hostingstartup/2.0.4",
       "hashPath": "microsoft.aspnetcore.applicationinsights.hostingstartup.2.0.4.nupkg.sha512"
     },
@@ -11157,10 +11189,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cilHHmPQ7F3cytigokA0rbzzdbO/QP+j8JPQ67Zl1wQcgAgmXZ4LDb1yBH4Oqx+QjMJo/G1QAdtkMIlUe4uzcw==",
 =======
       "sha512": "sha512-MWW9csKI6nZ+2nsCS/JyUXpHJnjbYhDRhfKhgmi21Di6RXKDxYtch2/fLsGZFB6WEhECng7/78W7hxpimMuUsw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cilHHmPQ7F3cytigokA0rbzzdbO/QP+j8JPQ67Zl1wQcgAgmXZ4LDb1yBH4Oqx+QjMJo/G1QAdtkMIlUe4uzcw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.2.0.4.nupkg.sha512"
     },
@@ -11168,10 +11204,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-qhJVdxVCKwxz3BHjdDKon+AC2WIWZaDmVs7ldz4TAJaJRu0+Gf+YAbhXGVdDCFc8vZP0wqdIwfu9dBH5uJ+zeA==",
 =======
       "sha512": "sha512-6A5ROYIvJ6YWHmPwPQKOLJQBH2jizVSu45gu/yd3mrIolE/6O8VodVz7PUkFeA+6M60dJkrkC4pD208UkUmIKw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-qhJVdxVCKwxz3BHjdDKon+AC2WIWZaDmVs7ldz4TAJaJRu0+Gf+YAbhXGVdDCFc8vZP0wqdIwfu9dBH5uJ+zeA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.authentication.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11179,10 +11219,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-FaLTpTSqsey+r8rYsDi+/gkuwd7cWDNh3KBrdyol5Wx4sunzOb7FnNL6XjekjyJ7vxTm9ORuiUy6y6VjXWzcdw==",
 =======
       "sha512": "sha512-mhUJGuEdV9ZAtiZb9F7AA18r4q4u8VHR1BSK+RVAFmZQQsVMQ3E0Fi8JSRKS+OltAujWOOj2sP0osbBSWwxR6Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-FaLTpTSqsey+r8rYsDi+/gkuwd7cWDNh3KBrdyol5Wx4sunzOb7FnNL6XjekjyJ7vxTm9ORuiUy6y6VjXWzcdw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.cookies/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.cookies.2.0.4.nupkg.sha512"
     },
@@ -11190,10 +11234,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-R85tVhpcij6nCnOXxIeLViV+Sij0BSV4uG/8/Xr85SlZ5NFkA0s3ZOtV45KqNtVp5XCM4ps59xdF3umHlqwuqw==",
 =======
       "sha512": "sha512-pWly1W87Y7QKwhwVS+z5gevdz30mibKwLaEaa0z/5/5JzvNWnxot8NPoi6i66Fi4EUwnWfo8FgSL51+6t6LLlg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-R85tVhpcij6nCnOXxIeLViV+Sij0BSV4uG/8/Xr85SlZ5NFkA0s3ZOtV45KqNtVp5XCM4ps59xdF3umHlqwuqw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.core/2.0.3",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.0.3.nupkg.sha512"
     },
@@ -11201,10 +11249,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-f5Q5gh79jOhEUJ71jkQx3O1VyVqYMBqZESHHogrl9dI4v/V3ExllMJfhCxV/YCSjrIShX/E4GISKnikI+Beovg==",
 =======
       "sha512": "sha512-Zq5dSQA39dh1qoZJXb1L07GxjzDZQYVOEql61J2H7Ck72UWd3etNZWfhUzEmXEzZ+CRziNpr8aUD5q48Ggaorg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-f5Q5gh79jOhEUJ71jkQx3O1VyVqYMBqZESHHogrl9dI4v/V3ExllMJfhCxV/YCSjrIShX/E4GISKnikI+Beovg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.facebook/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.facebook.2.0.4.nupkg.sha512"
     },
@@ -11212,10 +11264,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-akb0eQHWXKEGb/A6v7pmdEoi9rlrubInW3R4a5r0xsaNwFgpntnDEbNKD/x8XSgxsxR7gNgNGNLPYlRbibKrmg==",
 =======
       "sha512": "sha512-vGb52RAU9o6ikhC2U5t5IJ7v5W/iwf/JNzuXD5kzZhCOGttwB+jP6UdhTOHHqtGD9f5YaIOsFQt7+1ITwf+3sQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-akb0eQHWXKEGb/A6v7pmdEoi9rlrubInW3R4a5r0xsaNwFgpntnDEbNKD/x8XSgxsxR7gNgNGNLPYlRbibKrmg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.google/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.google.2.0.4.nupkg.sha512"
     },
@@ -11223,10 +11279,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Rozb3c/hoCZWADTGzZatCAxloUfW60HyVU++MArRS8k374dEkT6IkiboJYYfLYX5FhBwPhvNDzwoGEk+Aogwfg==",
 =======
       "sha512": "sha512-OpFuLUmyevriaWC3SBbCaYMTxxWMJk0KPiYgV1PU/LB3tghb0XnP3LVVatTRKtkOi1dRtqpNqNfcPivwgNCKYA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Rozb3c/hoCZWADTGzZatCAxloUfW60HyVU++MArRS8k374dEkT6IkiboJYYfLYX5FhBwPhvNDzwoGEk+Aogwfg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.jwtbearer/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.2.0.4.nupkg.sha512"
     },
@@ -11234,10 +11294,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-zaev2Mg61Cugi3j8ty0XRLpw0FJrwOUfTbuJTUZNBouCNgA3K/eB3NEaYCZM7uw4WtKPWVCMi44Y1ZYpXhWIbQ==",
 =======
       "sha512": "sha512-uXor7AHFlPt39KQWl5E+wRHgj2SIkJL17b0yV33k5pOFZh2180Ms8tJg5mwjFYWkDv6nmAEaZ6v7b/hRywZljg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-zaev2Mg61Cugi3j8ty0XRLpw0FJrwOUfTbuJTUZNBouCNgA3K/eB3NEaYCZM7uw4WtKPWVCMi44Y1ZYpXhWIbQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.microsoftaccount/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.microsoftaccount.2.0.4.nupkg.sha512"
     },
@@ -11245,10 +11309,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-NAWMDm9Y7/MvoJiaOtlC1AA3x6ELC+5iiqcBWBduKGMZnL/XFtaJw93NVbNjCkE9V0F/carJ3jMNOSnnJ+2t8g==",
 =======
       "sha512": "sha512-+T1HQ2QCc/gg1InH3JtfwuziVcMRFDlU51k/42VB7NlE/SA9KUc0HpIGFLLSSymOqQdJaF10gOpqpnRlBKvcKw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-NAWMDm9Y7/MvoJiaOtlC1AA3x6ELC+5iiqcBWBduKGMZnL/XFtaJw93NVbNjCkE9V0F/carJ3jMNOSnnJ+2t8g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.oauth/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.oauth.2.0.4.nupkg.sha512"
     },
@@ -11256,10 +11324,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cMm4pEZ+bTfWng2XaU9tnFasdZRWSDxtnH4id8MHL4bxmJW2kzXa9yQjbeHSUDTWDfN0DYIiMoamOD20kGcJ2A==",
 =======
       "sha512": "sha512-6U130Bc4QOIVz/akWfVWYalPohnJcrScBA88o13Shr37YB1Tqc28jksKESBAcBcQ6ojKuVB6JChfhZ6FYrubTg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cMm4pEZ+bTfWng2XaU9tnFasdZRWSDxtnH4id8MHL4bxmJW2kzXa9yQjbeHSUDTWDfN0DYIiMoamOD20kGcJ2A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.openidconnect/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.openidconnect.2.0.4.nupkg.sha512"
     },
@@ -11267,10 +11339,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-MEhMyEso4anakbRuSEfJ7mdsRS01bqwQLQ+BNwJIhN3jLieqZCq4TKQZNsvVoo9Uqf2Fc7Q9RmfTcYlIDOhpjQ==",
 =======
       "sha512": "sha512-ofjXBY5qRJVTXLG/zvSIKRnAo5Jz+MqNr86t6mqAXe7+SMKhT+uP7NeGGOrG9pdndgZ9tbNUnjW8bZ0wCeHAfw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-MEhMyEso4anakbRuSEfJ7mdsRS01bqwQLQ+BNwJIhN3jLieqZCq4TKQZNsvVoo9Uqf2Fc7Q9RmfTcYlIDOhpjQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authentication.twitter/2.0.4",
       "hashPath": "microsoft.aspnetcore.authentication.twitter.2.0.4.nupkg.sha512"
     },
@@ -11278,10 +11354,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/0zE4z3+r1cPD9Ji5ItFUtinOLPVGKSSRTaNxVom5lkUlmy21JvtbCqstKfYwwWhU2ltgesZwhfBR7TZ8Zfx9w==",
 =======
       "sha512": "sha512-5QnQrKNCiMEvbQgvd/hMS1wEBgfTSqQfl1hEcgVhYIVjz+vieOlND9tfqEDxiSe+Gm+IcFEZAMSxZApmiE7QwA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/0zE4z3+r1cPD9Ji5ItFUtinOLPVGKSSRTaNxVom5lkUlmy21JvtbCqstKfYwwWhU2ltgesZwhfBR7TZ8Zfx9w==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authorization/2.0.4",
       "hashPath": "microsoft.aspnetcore.authorization.2.0.4.nupkg.sha512"
     },
@@ -11289,10 +11369,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-PqnQ6t7Ps2fGP7fsqS6+vYSmotU90j29bOb0TSUwYsHp4LgbJwEZfOyjGraJRJ3G+29vgBXgRtMfi+qfXdOH1Q==",
 =======
       "sha512": "sha512-XdDFKM5Tswm7u4xU+d9PP217S2tLumh/EF3gGUjmVWpAR/fem76crfZwd7yn6G9YbjlF/05v/CjYeYXJfEIopQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-PqnQ6t7Ps2fGP7fsqS6+vYSmotU90j29bOb0TSUwYsHp4LgbJwEZfOyjGraJRJ3G+29vgBXgRtMfi+qfXdOH1Q==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.authorization.policy/2.0.4",
       "hashPath": "microsoft.aspnetcore.authorization.policy.2.0.4.nupkg.sha512"
     },
@@ -11300,10 +11384,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-CYaFqFMaQy5TpvZhR+v61bufulz2ej9NuMI8DPi+bbCDIRS+cuAKl44M01BBiHBEKcJ6OmmYVtt+6ojLqPcwxQ==",
 =======
       "sha512": "sha512-z6aPlbOOyrT3SW/DkoQdN+xeR8TNL0sxgz7HKMvUGmCaEISAP9eHU9bmPdUxHiROR11BbHlLeLK/m6G9QQaC6A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-CYaFqFMaQy5TpvZhR+v61bufulz2ej9NuMI8DPi+bbCDIRS+cuAKl44M01BBiHBEKcJ6OmmYVtt+6ojLqPcwxQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.azureappservices.hostingstartup/2.0.4",
       "hashPath": "microsoft.aspnetcore.azureappservices.hostingstartup.2.0.4.nupkg.sha512"
     },
@@ -11311,10 +11399,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-98nUnJGv5MatPH3b+URXh5VgjwJ0fcHCfgp96WYLd2YdzM6rhxFHU3rOVIS/inVMkm0Aji35QV29b7Z/EDq5wA==",
 =======
       "sha512": "sha512-o1ygNe1dhLJWeA6ov9EM+E+m64c5anPJtnIW/ZcHNOcd2/ct/v3BfAMBWJ4yllNqfBFCHZ7xnKHFvG1rG1Ku0g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-98nUnJGv5MatPH3b+URXh5VgjwJ0fcHCfgp96WYLd2YdzM6rhxFHU3rOVIS/inVMkm0Aji35QV29b7Z/EDq5wA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.azureappservicesintegration/2.0.4",
       "hashPath": "microsoft.aspnetcore.azureappservicesintegration.2.0.4.nupkg.sha512"
     },
@@ -11322,10 +11414,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-wPt/kp76OfVyQK3mhEkvwnN5ReBi8uKXLXpRIbV/4D63dHXDmruOQ2pZ0FcS+5ZU4Wp1QtUGErsB65bfly788g==",
 =======
       "sha512": "sha512-/tK7O7k/1UDt7WjjR71dmNa1XbF7GmSjxHmr50lLsRo7wEmOuwAgLMvA9hywNQUtb/nj+EBgwWQyK+oPXFOgFw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-wPt/kp76OfVyQK3mhEkvwnN5ReBi8uKXLXpRIbV/4D63dHXDmruOQ2pZ0FcS+5ZU4Wp1QtUGErsB65bfly788g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.cookiepolicy/2.0.4",
       "hashPath": "microsoft.aspnetcore.cookiepolicy.2.0.4.nupkg.sha512"
     },
@@ -11333,10 +11429,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KVOmidntHIJBM/KNWgOlaiGOAlvE1boMsxUOWY5NC+K2GFanPjrlzJGBHr3EPpqaURHVefdfkhKE4pldsSVzoA==",
 =======
       "sha512": "sha512-mQpIggG7ZRbjfsMQ/5Sa7UCBXAOWJIrNTWF/xbybVP061uQDXUJEbpjOg7E4bPUng0qFDTG3r7gsltgkjcdP6Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KVOmidntHIJBM/KNWgOlaiGOAlvE1boMsxUOWY5NC+K2GFanPjrlzJGBHr3EPpqaURHVefdfkhKE4pldsSVzoA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.cors/2.0.3",
       "hashPath": "microsoft.aspnetcore.cors.2.0.3.nupkg.sha512"
     },
@@ -11344,10 +11444,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-A3QOjsnTBowhVXV52DWD178wo8HncWzQZJc2s5BcOY4TA55x1y4Wz+/heQdds/tKGjob7c9UEzxlU7vfcpAHyw==",
 =======
       "sha512": "sha512-NszmqeN9q7Akw91M4OnOSKV0T86B/hDVzzILoiH+8B1gpf6H/jrvKLZf8a+pQRYvBr1dK6x6DfofLqwd/Pg8kg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-A3QOjsnTBowhVXV52DWD178wo8HncWzQZJc2s5BcOY4TA55x1y4Wz+/heQdds/tKGjob7c9UEzxlU7vfcpAHyw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.cryptography.internal/2.0.3",
       "hashPath": "microsoft.aspnetcore.cryptography.internal.2.0.3.nupkg.sha512"
     },
@@ -11355,10 +11459,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-uXzpsMrPJeUWpCfSbGeNmzsFiG+1aj8EHs+t5AP1ABQuyU9CcePzdPczDq1VU647nNJrG0S0aYYvi+YvschCdg==",
 =======
       "sha512": "sha512-Zd28yM7NsejyPjgrJhRNj+b78envFlJen5RxsNcBo7S9dRn8qWkYLPtkqnTnndbVbEDGr1lO+/DPCucWJxUUcA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-uXzpsMrPJeUWpCfSbGeNmzsFiG+1aj8EHs+t5AP1ABQuyU9CcePzdPczDq1VU647nNJrG0S0aYYvi+YvschCdg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.cryptography.keyderivation/2.0.3",
       "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.2.0.3.nupkg.sha512"
     },
@@ -11366,10 +11474,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KRf+QxBSu+Tb0Fj+LIZHcORxDX4eZSmrZm0q6X7Z+3dV2IYYn7GLgNei4lO/SGECRpp4B7hRfTkK5FEH+DDopA==",
 =======
       "sha512": "sha512-zhToyceCoNG5qyY91Y4PrQ3fYyhay0hJRiUWcvGeRLg8mLvDnViWT8VK1f0bnuzfsTu1UQqiEP9zqpXLsu07/Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KRf+QxBSu+Tb0Fj+LIZHcORxDX4eZSmrZm0q6X7Z+3dV2IYYn7GLgNei4lO/SGECRpp4B7hRfTkK5FEH+DDopA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.dataprotection/2.0.3",
       "hashPath": "microsoft.aspnetcore.dataprotection.2.0.3.nupkg.sha512"
     },
@@ -11377,10 +11489,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-nWBROwWtuuG3wOJTggozV0cE/wsRxwY4Cf9TB9igLQUatIGDsNZDxL0NXcuvZPIlpuxKuSDSFEjvKg/nFyOr5g==",
 =======
       "sha512": "sha512-KkLb+S3DzEMqNJosZ8He8S3uo/wxVjGlC2wDIzZ9/GY4T0+AA+D5TfSi/3g9KwABtrGtlDzCqkfcYBtx7b5xZw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-nWBROwWtuuG3wOJTggozV0cE/wsRxwY4Cf9TB9igLQUatIGDsNZDxL0NXcuvZPIlpuxKuSDSFEjvKg/nFyOr5g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.dataprotection.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.dataprotection.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11388,10 +11504,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-CssOzEk+Uzr/wmGy4mnjM41yKzC9NXPcZ26rdk6YZjpserQYFtDReWfn/gmbRvyKh4Hns8OTJaN/FecwMl8UHQ==",
 =======
       "sha512": "sha512-NaH/NxQocHL6fRuMiYcD5VDmWRiu7iIWF+4UywRZQX0onnEHhqmT6eTZBGy7xNeudtN1RhSMqTdU51hw84qg+g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-CssOzEk+Uzr/wmGy4mnjM41yKzC9NXPcZ26rdk6YZjpserQYFtDReWfn/gmbRvyKh4Hns8OTJaN/FecwMl8UHQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.dataprotection.azurestorage/2.0.3",
       "hashPath": "microsoft.aspnetcore.dataprotection.azurestorage.2.0.3.nupkg.sha512"
     },
@@ -11399,10 +11519,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-24eM2igXaU3x3DHbYTp2spTl1B1twxj87tlN05lWDyptU0e+qyRC3acVzjQzENa+9KDxPdBiHhKST+0ma/g3Dw==",
 =======
       "sha512": "sha512-OLYOqZA2O3kV7q5C85d6stUWI/AplYjEXsVhq/5cJn+a0sPJkl9goDXt+YFd3e91puA1WWYXFwP/7RoZDybatw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-24eM2igXaU3x3DHbYTp2spTl1B1twxj87tlN05lWDyptU0e+qyRC3acVzjQzENa+9KDxPdBiHhKST+0ma/g3Dw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.dataprotection.extensions/2.0.3",
       "hashPath": "microsoft.aspnetcore.dataprotection.extensions.2.0.3.nupkg.sha512"
     },
@@ -11410,10 +11534,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fotyI5wkoB4PfM7/UrdMTG2cL+7RQoq4SRXD+rXyDW/04H9SQsS0LrYNcC9ov60x7CblwK0PwoJ7crrsh2yVmw==",
 =======
       "sha512": "sha512-dZts+qMwGAvyP+xf+0lZr2q88Wr2oIH+/PJNeCT1fRoR073o6F0IM9LdqELsFu49xLhsH/5CQOLUpu+bK3+cTQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fotyI5wkoB4PfM7/UrdMTG2cL+7RQoq4SRXD+rXyDW/04H9SQsS0LrYNcC9ov60x7CblwK0PwoJ7crrsh2yVmw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.diagnostics/2.0.3",
       "hashPath": "microsoft.aspnetcore.diagnostics.2.0.3.nupkg.sha512"
     },
@@ -11421,10 +11549,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-WTA+YiB904BcXRplDCy0n6HgIZyM+kXT86uuG7naZWzQvqe2sO1oO9EPbXmQpCKHQddnNcIqUYZQAyqDFtFc/A==",
 =======
       "sha512": "sha512-jjrE6Tynt5DEbVQOaA2vis2LanzN2tHrexv/hSBjnvCrnZCIaclDIabAZnajpTMgOPD1nTCymWDuF4PVtj48WA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-WTA+YiB904BcXRplDCy0n6HgIZyM+kXT86uuG7naZWzQvqe2sO1oO9EPbXmQpCKHQddnNcIqUYZQAyqDFtFc/A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.diagnostics.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.diagnostics.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11432,10 +11564,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cv4en05ND1cm05UccDyn5nZTUn0pER7ExRTTJjvxysZSBPcx8LNyFTiOb7HokUZTkERR9yLs4S1uKU7IlOvoEQ==",
 =======
       "sha512": "sha512-Ey/Pcf2MpDT8wdKB8bUwfC+n57k4HAlM1/t2J44Oz4mXJ6RtL/ApNqlzJVSycIBZylWzTK17h3g4wySKi65oIQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cv4en05ND1cm05UccDyn5nZTUn0pER7ExRTTJjvxysZSBPcx8LNyFTiOb7HokUZTkERR9yLs4S1uKU7IlOvoEQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/2.0.3",
       "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.2.0.3.nupkg.sha512"
     },
@@ -11443,10 +11579,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/lWuLlMGAAdZAlf4Kmcf6xDMDXHpoW2ZimCNjJZVQR45MlQQrBgxMnceNReTBtBgPvj14/loHeUWVGJeCm3i5g==",
 =======
       "sha512": "sha512-wvjHT6kcjbF5mxV2UAwISa0C+SsNOifvbqBxdZi4TEzpEWj1OzpX17y0oiQVOh/K1LGBtCQ5a9qAXv4Y1AzpOg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/lWuLlMGAAdZAlf4Kmcf6xDMDXHpoW2ZimCNjJZVQR45MlQQrBgxMnceNReTBtBgPvj14/loHeUWVGJeCm3i5g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.hosting/2.0.3",
       "hashPath": "microsoft.aspnetcore.hosting.2.0.3.nupkg.sha512"
     },
@@ -11454,10 +11594,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-gsJ8XtLjGF3FF02UJ1uRXhwHGxP+JoJtqqGxfPTCYDeixSqQf4NNSqUPbXB987lpZciLyCkDB9cyyVTKubJl3w==",
 =======
       "sha512": "sha512-l9OVHfiRuChmHluTIbOgr3M183EOWieuGXeMyYLo52XEHMR69P8rivANfP0o6dmMsN/AFvYlvdwn0uR8wU1ByA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-gsJ8XtLjGF3FF02UJ1uRXhwHGxP+JoJtqqGxfPTCYDeixSqQf4NNSqUPbXB987lpZciLyCkDB9cyyVTKubJl3w==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.hosting.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.hosting.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11465,10 +11609,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-zRcioMNMAcwUkfJ36rPUvuzRyFa+Ph4HcQ6MFE7xX1ky84xV3ta732zXYAu8QbEVXFeFsSIu+YfZhGw47kiivA==",
 =======
       "sha512": "sha512-kqlRnVZivP+hsRx2KQ7iyko7uYd3kyqi66+AOKIikw96AtdivIa+AlmNi7m3jhHydexDU7D1NEfnkXvRaUkfDA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-zRcioMNMAcwUkfJ36rPUvuzRyFa+Ph4HcQ6MFE7xX1ky84xV3ta732zXYAu8QbEVXFeFsSIu+YfZhGw47kiivA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.hosting.server.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.hosting.server.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11476,10 +11624,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Coy0K88+73feU+df6wliW/wNkQ19McWxS9W+8wvwzHs8v5F1UU/3MXtnSNpOsdw6BxXR6u86i17fg4Tt0CPCRA==",
 =======
       "sha512": "sha512-7JTHhfXL/Z4emzqi//ccBsJfVv2nb+Bjhaj+dxYOEhN2riIdkVFGxEjVI13+F42b4cWldsw5yrhbjidsfMaKDg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Coy0K88+73feU+df6wliW/wNkQ19McWxS9W+8wvwzHs8v5F1UU/3MXtnSNpOsdw6BxXR6u86i17fg4Tt0CPCRA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.html.abstractions/2.0.2",
       "hashPath": "microsoft.aspnetcore.html.abstractions.2.0.2.nupkg.sha512"
     },
@@ -11487,10 +11639,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-3UcMCyoBzKignSS58meI2Od5E/qAMutZBs7TpXbqgUOJeSR0YGjhOFmzC8VrP8chUUjSmbpb4oiXivB0VkTuNg==",
 =======
       "sha512": "sha512-Cy755AwTx2RD8ld5Ro9sv48JgsrwFH886iU4KT5hctbdz3EZ9aqKO/LOgCnJylIx3IZz7mGBYGWp83VmU7oayQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-3UcMCyoBzKignSS58meI2Od5E/qAMutZBs7TpXbqgUOJeSR0YGjhOFmzC8VrP8chUUjSmbpb4oiXivB0VkTuNg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.http/2.0.3",
       "hashPath": "microsoft.aspnetcore.http.2.0.3.nupkg.sha512"
     },
@@ -11498,10 +11654,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-68K27sUVMTaroqw40uV6tVZDmg5aVjBE9c+1tZIYbb9Zd193sTOOpnS+5vipA46OaGUv47mzSwa8h+wn0rGDQA==",
 =======
       "sha512": "sha512-TnAQQpkSvvO7BQut5mHPV8nn6DBq02RTN4kojgK6GuXNNF5EOSDZtoO7lSsyv6k8LpOjL/MvE0/Z/LZs/rOsXA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-68K27sUVMTaroqw40uV6tVZDmg5aVjBE9c+1tZIYbb9Zd193sTOOpnS+5vipA46OaGUv47mzSwa8h+wn0rGDQA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.http.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.http.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11509,10 +11669,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-d1EUE+aOT2dhpyciM/In1sNADd0eXo8Xq0L5W4+rJoo1oS3/mEoj0il0dfCmBxtvfPwx8AEfBymw07izpzXmqQ==",
 =======
       "sha512": "sha512-Gp3XV/88yX3Ydmp84kWmaheRz7sTB0HfUBb0kmXlU70gaIqvFKreMSpof1oBsdmtE1X7BnQE7ko2dhDGQddyvg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-d1EUE+aOT2dhpyciM/In1sNADd0eXo8Xq0L5W4+rJoo1oS3/mEoj0il0dfCmBxtvfPwx8AEfBymw07izpzXmqQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.http.extensions/2.0.3",
       "hashPath": "microsoft.aspnetcore.http.extensions.2.0.3.nupkg.sha512"
     },
@@ -11520,10 +11684,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/aQjeLghQofUYDIbOv+D/QOQi4+AqEnqWK9ZUrHftsKe6h4NaDYH1hajwJz4a+lgkQh3OuhLxZnJNZBVpb+AHQ==",
 =======
       "sha512": "sha512-lXzqrv6QfwV7d6GCIcx7ooL7qx0AghLnKp+zcV61vJKPnPB8ics4zWBERY3mun3ae1WPCXEJ7kPTVVr9GOC9Gg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/aQjeLghQofUYDIbOv+D/QOQi4+AqEnqWK9ZUrHftsKe6h4NaDYH1hajwJz4a+lgkQh3OuhLxZnJNZBVpb+AHQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.http.features/2.0.3",
       "hashPath": "microsoft.aspnetcore.http.features.2.0.3.nupkg.sha512"
     },
@@ -11531,10 +11699,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Gd6lp3WiDIELMs+VISyIkdee8key2J0CwQ3r5gRFs2of+gt+jmWvftGIVaqFaMwOeF+3uldH1kLpBrMa7kMGDQ==",
 =======
       "sha512": "sha512-f3QyMI9HHPjCbXDeo8vBWzKldKC3J8MySlxX4mRTCZGKMvHhHg0h4zDZxmsCYSaitdZ/FUFx6CGtHps4aTBguQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Gd6lp3WiDIELMs+VISyIkdee8key2J0CwQ3r5gRFs2of+gt+jmWvftGIVaqFaMwOeF+3uldH1kLpBrMa7kMGDQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.httpoverrides/2.0.3",
       "hashPath": "microsoft.aspnetcore.httpoverrides.2.0.3.nupkg.sha512"
     },
@@ -11542,10 +11714,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/gXVH0r7dbqvSJLL3BPNOdXmygXC9/ctibFiGQ7slHNPfNSj1Y8KrdDlQmQpywUISAGHHny1/5nYp+P8pcKTCw==",
 =======
       "sha512": "sha512-CRM6Ge59kzpUYuvAi8sz/lJUrJd27QeGmTfFGRqwJVCjhvu1KVCetlO3BgO9XUQ0gKLpmGLPV6dWlLm6affEig==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/gXVH0r7dbqvSJLL3BPNOdXmygXC9/ctibFiGQ7slHNPfNSj1Y8KrdDlQmQpywUISAGHHny1/5nYp+P8pcKTCw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.identity/2.0.4",
       "hashPath": "microsoft.aspnetcore.identity.2.0.4.nupkg.sha512"
     },
@@ -11553,10 +11729,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-TynZvwIlulrOOWG3nUvyvd/jKBhwRTBCAmfrT58WTcFymWxDkZfz6dLQMB/RoIIzV39IamxT3bokFbQouTmhVQ==",
 =======
       "sha512": "sha512-BPCl59th0VXoesHQYcLevb9lRd7Sl2gwefit7VstqOkePWq2EmXc4jT0g4gQp1ww+Tm6YrobGA/wSCmHAoN69Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-TynZvwIlulrOOWG3nUvyvd/jKBhwRTBCAmfrT58WTcFymWxDkZfz6dLQMB/RoIIzV39IamxT3bokFbQouTmhVQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/2.0.4",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.2.0.4.nupkg.sha512"
     },
@@ -11564,10 +11744,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-US78cfi7nrPTXeONgcSWbgrUBLs1Aca4kCJTieWXDLg0G0gwmdfPbd6S3c5TdJRQdA69K3UhPAs9r9ZAMjIFAA==",
 =======
       "sha512": "sha512-TTegmLlmfFvCJ/7QRCMWswfmB17DmBS5Z/ahkGW9RihQPvjmW/3FpckVUJSn0D8chbGfM7PUCCXfEYlsKFDF0A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-US78cfi7nrPTXeONgcSWbgrUBLs1Aca4kCJTieWXDLg0G0gwmdfPbd6S3c5TdJRQdA69K3UhPAs9r9ZAMjIFAA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.jsonpatch/2.0.0",
       "hashPath": "microsoft.aspnetcore.jsonpatch.2.0.0.nupkg.sha512"
     },
@@ -11575,10 +11759,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-IIVz30aVAgc7+WlivPSZKuD0C+KsvDla8JCcpc7LmOlGVBjYNkxOXI3Qptn2V0jF2qVdW8FAEVaz32p4MbGNbw==",
 =======
       "sha512": "sha512-bRtbHSvJZpSiv1NgwN3UyTjJKkP5ZEGwhrA1U2xMgpm4vnFRaZp8YTKsFh9oi0WXd5ucvTYbDRemqnqmnHQ8Hg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-IIVz30aVAgc7+WlivPSZKuD0C+KsvDla8JCcpc7LmOlGVBjYNkxOXI3Qptn2V0jF2qVdW8FAEVaz32p4MbGNbw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.localization/2.0.3",
       "hashPath": "microsoft.aspnetcore.localization.2.0.3.nupkg.sha512"
     },
@@ -11586,10 +11774,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-LTSZWXXGSQq5KNM4PVYw2pOi9lt56ondMZ3u7iI6n8vwBP+NvA2Yxvy+CkM1WtP45YXD+s8XzKTLmCj8nTulGg==",
 =======
       "sha512": "sha512-CLH2MlV2r3ihf6/eUUy0uVp3e+PRbBUeXJPE7wcGs6C+FSZCrLdV7lapCQedw/OnZV0dDCv5FyioiAeSzQgmyQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-LTSZWXXGSQq5KNM4PVYw2pOi9lt56ondMZ3u7iI6n8vwBP+NvA2Yxvy+CkM1WtP45YXD+s8XzKTLmCj8nTulGg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.localization.routing/2.0.3",
       "hashPath": "microsoft.aspnetcore.localization.routing.2.0.3.nupkg.sha512"
     },
@@ -11597,10 +11789,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-N5BnaQNm0uyJjd8LiCvw1Zc9K/dqLwASPuAxZ5jE8dT+LOKgYgbVhDsh0PJhlpKud6TzFV/puBM/C+gRujHYyw==",
 =======
       "sha512": "sha512-FSGHTZLq0kCy9px7+e+tBcK+F25PLJvyXxGFAvRpL3TDtb3YZMrEPnwIBeMwuIrkVEgEgSTf4BkVsIExw6660g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-N5BnaQNm0uyJjd8LiCvw1Zc9K/dqLwASPuAxZ5jE8dT+LOKgYgbVhDsh0PJhlpKud6TzFV/puBM/C+gRujHYyw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.middlewareanalysis/2.0.3",
       "hashPath": "microsoft.aspnetcore.middlewareanalysis.2.0.3.nupkg.sha512"
     },
@@ -11608,10 +11804,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-rxXXcZBuC+Rh3pydAWYkxwcCYwYWVnkjwvjktazeFUmL5ZtIMT/hBzYqjSXVZ9bL75oAoqzfGwVRSgS6vMxxqg==",
 =======
       "sha512": "sha512-C62BZ67EirOUaRQMZqvorvWIMlpNG/686BRi2LU5F8ADk35dmcNGiE0PM33pB8MHpqMjUeNFx3JiapDmFlFGog==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-rxXXcZBuC+Rh3pydAWYkxwcCYwYWVnkjwvjktazeFUmL5ZtIMT/hBzYqjSXVZ9bL75oAoqzfGwVRSgS6vMxxqg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.2.0.4.nupkg.sha512"
     },
@@ -11619,10 +11819,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-LhFvnz+5IqtsqzOWbn5xiotQt+N7QHyDTGCQojkffLXkQsvBhmIPVXsbbxZdxqpC+pc6tGfBikZBa18GyIgDsA==",
 =======
       "sha512": "sha512-Kp47R2Q+FSh0c3JtnuXhUMNuekdaTtqIX7bm02P7pK5gPdAa196R4ljOO4RzGttkD9feCGepQxFxZ6Zg8d9ipQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-LhFvnz+5IqtsqzOWbn5xiotQt+N7QHyDTGCQojkffLXkQsvBhmIPVXsbbxZdxqpC+pc6tGfBikZBa18GyIgDsA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.abstractions/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.abstractions.2.0.4.nupkg.sha512"
     },
@@ -11630,10 +11834,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-G75WaWewde+h2hvTeIroVd3E5lNv8uFA2pCbs6/qPZxfM6Y6mbp+EIoKT+so8DM8mre0XqgaQ6DcQKPZ+tM0vA==",
 =======
       "sha512": "sha512-eT95TUajTLRFXFPmNrSa/BeDXmfi7TDVjpEGMG/tU8fIAZtbwf8YrrwBmBRt3rRRbjeGfrLLufUSZ+rNThOoqw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-G75WaWewde+h2hvTeIroVd3E5lNv8uFA2pCbs6/qPZxfM6Y6mbp+EIoKT+so8DM8mre0XqgaQ6DcQKPZ+tM0vA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.apiexplorer/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.apiexplorer.2.0.4.nupkg.sha512"
     },
@@ -11641,10 +11849,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Pwk3+4yqIfvdk2Wcwsh+jfu767zL81OPk/BCSkN+3wcoWIUnLQ0eZ0xIyTSee/pHVSY8b2saLxyfvXFHZOM/iA==",
 =======
       "sha512": "sha512-DZhoju70HLHywVqqmnrLdcw92c/hA+DnseJseJsvr+wLFFECFHtEIs3JiaF8KJy1RyDFbSoEePTl/XmrvwtA4A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Pwk3+4yqIfvdk2Wcwsh+jfu767zL81OPk/BCSkN+3wcoWIUnLQ0eZ0xIyTSee/pHVSY8b2saLxyfvXFHZOM/iA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.core/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.core.2.0.4.nupkg.sha512"
     },
@@ -11652,10 +11864,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-YAlGx5tfnnqvGAkWO8hWjt7QqmP253BpWoVlPbRqQsptdcxQjc8NFvsJAChZTj3UoKw84s360ekyD7JeAMsewA==",
 =======
       "sha512": "sha512-scV2iCPpE8e0QIVDPUzzPphlChFNybj3+LBub0frxh2WfdL4S+8bzQRW5VqPBJ8OQlOXxNY0WzX9KPq7b+ialg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-YAlGx5tfnnqvGAkWO8hWjt7QqmP253BpWoVlPbRqQsptdcxQjc8NFvsJAChZTj3UoKw84s360ekyD7JeAMsewA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.cors/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.cors.2.0.4.nupkg.sha512"
     },
@@ -11663,10 +11879,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-LzObWJm7oV8/uClKfvup7D5Lks6815r8/0u6Carp0Wru9eltBzba1NVUMr2yNBO+unWvTAuhwUVtSYt2Q8qMYw==",
 =======
       "sha512": "sha512-xMMs/1lsRJgX/VsSITvBG8h1gnP8NTE0xhM8if6qIcJiVn8AstFT9GJlWEyyFcbT0iUrMEuqyEKckiDrUQkpFw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-LzObWJm7oV8/uClKfvup7D5Lks6815r8/0u6Carp0Wru9eltBzba1NVUMr2yNBO+unWvTAuhwUVtSYt2Q8qMYw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.dataannotations/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.dataannotations.2.0.4.nupkg.sha512"
     },
@@ -11674,10 +11894,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ooCvSWVm1nDSQSK9C30AxM0N0QQj2wDol0tHHWVujkXishiMlSvxpdaXbH4rgp4V1r/P+izFUdkU1gjeF/allw==",
 =======
       "sha512": "sha512-6Q9cLPiW8UB124Hi7AkWjE585vw5PSJRLdckHpl3DkhJC3PHa1hLHHsH+OKeC/mn/v1j4jNKAelRF147D0WwUA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ooCvSWVm1nDSQSK9C30AxM0N0QQj2wDol0tHHWVujkXishiMlSvxpdaXbH4rgp4V1r/P+izFUdkU1gjeF/allw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.formatters.json/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.formatters.json.2.0.4.nupkg.sha512"
     },
@@ -11685,10 +11909,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-VtsO5L2sY3QiMI3/P7nOCvVgFD6Nz3qM89nzHJVO6+r86tAmgt8WEliC50TgHOPVYyI89AeI0ty1GDRjAizX8Q==",
 =======
       "sha512": "sha512-8ht6GCyBDT6M/ZqCcuUtGph6a3T5Wg1g/FS16rS/RIzLZyOHpZubdBCflOA4I1F47fwNqn0I9itB6WGV5jQU8g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-VtsO5L2sY3QiMI3/P7nOCvVgFD6Nz3qM89nzHJVO6+r86tAmgt8WEliC50TgHOPVYyI89AeI0ty1GDRjAizX8Q==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.formatters.xml/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.formatters.xml.2.0.4.nupkg.sha512"
     },
@@ -11696,10 +11924,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-8Okxt6j9UlaXlJcCGfhKZfYi/C8K3cRZN34qna8o3ewWQjSRkXFHMSqQq1bqxP+Ed7RpKyTqTHFeJUiVQDfnKw==",
 =======
       "sha512": "sha512-ssAyDNfuijWhFAxSAT9OXhZBuQSyRwMVeUpfcp5YOyUjGcpLOsvqMCv0Nn0c39SKSHdIJPNF3BwO5+F++wr0NQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-8Okxt6j9UlaXlJcCGfhKZfYi/C8K3cRZN34qna8o3ewWQjSRkXFHMSqQq1bqxP+Ed7RpKyTqTHFeJUiVQDfnKw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.localization/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.localization.2.0.4.nupkg.sha512"
     },
@@ -11707,10 +11939,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Ze6pfvyUmvSHyy5uenq1MyDfzypWbD7Ta4ztnS3TP/IL13zy5PC2ceWbAq6L11i9kGHyz/NYfIruLDggPkqYng==",
 =======
       "sha512": "sha512-++N9WBKT8YWbL5wN5TMQxffm4xy+GLdbFh7lqP6YwAowdoEh5oe0V2A74So2v99xjiL3M6acraC49AZPBlNDRg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Ze6pfvyUmvSHyy5uenq1MyDfzypWbD7Ta4ztnS3TP/IL13zy5PC2ceWbAq6L11i9kGHyz/NYfIruLDggPkqYng==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.razor/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.razor.2.0.4.nupkg.sha512"
     },
@@ -11718,10 +11954,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-bhfnv7F4bbydJRElzaFTA0UyiX3s5TrImLNxKomBlh2DkOOpFsOZlfT8Vz+yltO9ASI5cwfRwiGe4Q2iTdaQqw==",
 =======
       "sha512": "sha512-miClt2wuemx+Puakxmzda6sqTFuJy/jk6STI93JY2GzZW/8Lozd1q8ZTX6r3sdqJY8achvT3pzDuEQYajPqiMg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-bhfnv7F4bbydJRElzaFTA0UyiX3s5TrImLNxKomBlh2DkOOpFsOZlfT8Vz+yltO9ASI5cwfRwiGe4Q2iTdaQqw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.razor.extensions/2.0.3",
       "hashPath": "microsoft.aspnetcore.mvc.razor.extensions.2.0.3.nupkg.sha512"
     },
@@ -11729,10 +11969,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Uz2Zexiq9+Dt6zKxpOCic9c+e4NOSWwBQ7OhKI6Ur7vbSYq8dzYC5+W3KC9jMPuQyTdAKQkzYazorXNmiMc7fQ==",
 =======
       "sha512": "sha512-67iMbJuQTlyg4ma+ltvz9Kn6UichnEKzhojHSzDR+3WdU92GVDL0oItUtqCQSGJoBdvDiRDmS9eLHdNCDjW1hQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Uz2Zexiq9+Dt6zKxpOCic9c+e4NOSWwBQ7OhKI6Ur7vbSYq8dzYC5+W3KC9jMPuQyTdAKQkzYazorXNmiMc7fQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.razor.viewcompilation/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.razor.viewcompilation.2.0.4.nupkg.sha512"
     },
@@ -11740,10 +11984,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-+xmSjFy+TQY+hGvJsywwFv5uEGnNPT6nrSS7U1OuPJ7HOLqgPPGKQ/txygU8vU9g5EY1l4OCKjOpY6Vpg+L9cw==",
 =======
       "sha512": "sha512-R8PsgFOAw/+LmOINwpr4J+ZF4aVq5fWrTMjje7iZASKgH8seZI18GGdqHmpAt2Accx9t3/UquvsRKTykuZXfUw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-+xmSjFy+TQY+hGvJsywwFv5uEGnNPT6nrSS7U1OuPJ7HOLqgPPGKQ/txygU8vU9g5EY1l4OCKjOpY6Vpg+L9cw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.razorpages/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.razorpages.2.0.4.nupkg.sha512"
     },
@@ -11751,10 +11999,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ZSZiSTzkcxlWDEcvcp//FNK4onTrwz4YPJ7Pbrmpd9IQ0qR2kvtcuRKRuCIg0JvkHv+swBYeiAX1/I2h9EyHcw==",
 =======
       "sha512": "sha512-tT7oWKeOgr3TWwIUvD+HDfggXsD22SEeS23rtmodDYypb2rBWq553SojHl+d+xS9ijlmtBD1zukhA4FsMM4AuA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ZSZiSTzkcxlWDEcvcp//FNK4onTrwz4YPJ7Pbrmpd9IQ0qR2kvtcuRKRuCIg0JvkHv+swBYeiAX1/I2h9EyHcw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.taghelpers/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.taghelpers.2.0.4.nupkg.sha512"
     },
@@ -11762,10 +12014,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ktaVPHRxfcnYtLGtiL+0mXilvW07nY5Zn/q6MQaC1KGx1wClsf38bvtgS5nxnzEiUSq/iywNXVdwiJOsWHs7WQ==",
 =======
       "sha512": "sha512-mAIZBTXtYck/rLBq5upCfYZnYXYvez9Nn9Iowds8hNwx9QMg4351Rfr0TvYQRGBFwsGgfkSqtkHVe/gAwY/Ngg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ktaVPHRxfcnYtLGtiL+0mXilvW07nY5Zn/q6MQaC1KGx1wClsf38bvtgS5nxnzEiUSq/iywNXVdwiJOsWHs7WQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.mvc.viewfeatures/2.0.4",
       "hashPath": "microsoft.aspnetcore.mvc.viewfeatures.2.0.4.nupkg.sha512"
     },
@@ -11773,10 +12029,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-nA8CLhX5g/JXnAME25LwxYt36lj2jiXnJGlaaml6p9nvQIAOtI/LFgWH+kH0bzvkgWWVXAZRVBPA6iNZhVdf5A==",
 =======
       "sha512": "sha512-PipKsAjzH5G+aRj9L/vo1BLRCkDiGzVt9YwDoAaf9H8o4bxyle1zIFQt29vtaUZSf/S4Xpb8GWWZmyO4TYpquA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-nA8CLhX5g/JXnAME25LwxYt36lj2jiXnJGlaaml6p9nvQIAOtI/LFgWH+kH0bzvkgWWVXAZRVBPA6iNZhVdf5A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.nodeservices/2.0.4",
       "hashPath": "microsoft.aspnetcore.nodeservices.2.0.4.nupkg.sha512"
     },
@@ -11784,10 +12044,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Y3fADeAu6xO9oGKrhMsZjJoc7cuLvEBEAYg+cIRUtnFnwxnLRRBJXWPjYAmaaIJg92x+CucV7NW2rlABhjD8Hw==",
 =======
       "sha512": "sha512-tWZB/EMHa1DzWWmgQ5AoYauWS2aJluFBBIh3JwQZ/QarsXQ3MtP6TgrNtpMSY7VnYjoyK9w/HPB7O6zaYofr9A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Y3fADeAu6xO9oGKrhMsZjJoc7cuLvEBEAYg+cIRUtnFnwxnLRRBJXWPjYAmaaIJg92x+CucV7NW2rlABhjD8Hw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.owin/2.0.3",
       "hashPath": "microsoft.aspnetcore.owin.2.0.3.nupkg.sha512"
     },
@@ -11795,10 +12059,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-nq/ZtZ2uquXsBpVdHQSd7khIDXULx9SekqHDsB79sAztqtw8yqHd5T5Y9vHeVobYn5b4hBAjxxOXrYvfERqlyw==",
 =======
       "sha512": "sha512-qOEHWYr1gBNFXUIgjI7MJewtmOcYLXBqundQOdKGj2MemyP61GWH3Z9rarSEKAP4uDeU3+3JXC+ySjsmIoZLew==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-nq/ZtZ2uquXsBpVdHQSd7khIDXULx9SekqHDsB79sAztqtw8yqHd5T5Y9vHeVobYn5b4hBAjxxOXrYvfERqlyw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.razor/2.0.3",
       "hashPath": "microsoft.aspnetcore.razor.2.0.3.nupkg.sha512"
     },
@@ -11806,10 +12074,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-4G4vvEhq7aMGst0K4MymuQQ2dou4dWnYYirh2dZZJ+f4GizwoQSl4xgUxpKmqxiLRKxK3Kvrs91/SQIlmkineA==",
 =======
       "sha512": "sha512-CpBC6/OONA5meGoUNCgg1pHnmjuHiqHC78I5BjVXiI3GtBRnmpSjVRIlW5lKuBkakMti/f14a3bsX//D3TalrQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-4G4vvEhq7aMGst0K4MymuQQ2dou4dWnYYirh2dZZJ+f4GizwoQSl4xgUxpKmqxiLRKxK3Kvrs91/SQIlmkineA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.razor.language/2.0.3",
       "hashPath": "microsoft.aspnetcore.razor.language.2.0.3.nupkg.sha512"
     },
@@ -11817,10 +12089,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-4yHqlI5uuJPp5PzXEnEn8wbAcR32L02/1FSOWs6mEOOHfemf9iz5MJvohYqPKRmeGwgYTWDPCEl34EE0qwzAcQ==",
 =======
       "sha512": "sha512-tsucAUdDUgO/g4H3e7WkkVsTjSbjbOzTwDZRnegsq6H+4V7z5IG/FBos0sXQlmD7MlP4fGsvT8vskhDoXFNFSQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-4yHqlI5uuJPp5PzXEnEn8wbAcR32L02/1FSOWs6mEOOHfemf9iz5MJvohYqPKRmeGwgYTWDPCEl34EE0qwzAcQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.razor.runtime/2.0.3",
       "hashPath": "microsoft.aspnetcore.razor.runtime.2.0.3.nupkg.sha512"
     },
@@ -11828,10 +12104,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-T4kUdRY2sLBhdBGnJ0McFrG+VLyke8WipK4LZTTPQD0BF77QTbg1RUWpYoRXI+flOKWE6zl4966AhIM7ylh+0w==",
 =======
       "sha512": "sha512-WgAmEay+E3fg0Xw5Zlxk7xXw2F0qNzsldiCWAEgSMYuds5mVjbSO4NW5Z4WlHPlSytamfEPQsQhWmcnGDTB+dw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-T4kUdRY2sLBhdBGnJ0McFrG+VLyke8WipK4LZTTPQD0BF77QTbg1RUWpYoRXI+flOKWE6zl4966AhIM7ylh+0w==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.responsecaching/2.0.3",
       "hashPath": "microsoft.aspnetcore.responsecaching.2.0.3.nupkg.sha512"
     },
@@ -11839,10 +12119,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-9x3V/sVfaUEBsHgqtIQMTJW5x1NZAJLkIbh/QkNoTd6bh2ufyL5Xz/s//6rh5kpXUsKTF9XNEl0YWLb17iDFkw==",
 =======
       "sha512": "sha512-+3UAzSU+0k9nfB/C+IWxgbfmH8jTfM2+GSCE74dTo00isCvKMHqcx+Ih8MxDtFzVZczpt+7MaXVqAjdiySAXQA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-9x3V/sVfaUEBsHgqtIQMTJW5x1NZAJLkIbh/QkNoTd6bh2ufyL5Xz/s//6rh5kpXUsKTF9XNEl0YWLb17iDFkw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.responsecaching.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.responsecaching.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11850,10 +12134,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-BeJCYDfrWJbTOnM08FT3BZ735GmZaEgDk61zQ+Q5ZL+hz37A5x5/tU1WLNQmGtSpaIwQpyaSOuBXjuP9Uv6eZA==",
 =======
       "sha512": "sha512-IjwhhkFGA665yAy/lL88tWm7v1xgSQ9D080HiULGW+vw5SNGNqCSVc3dH2yChZr9kdRcyS6UyTHB0uRvnVs1cQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-BeJCYDfrWJbTOnM08FT3BZ735GmZaEgDk61zQ+Q5ZL+hz37A5x5/tU1WLNQmGtSpaIwQpyaSOuBXjuP9Uv6eZA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.responsecompression/2.0.3",
       "hashPath": "microsoft.aspnetcore.responsecompression.2.0.3.nupkg.sha512"
     },
@@ -11861,10 +12149,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-iqNYKrn93LNLYOGz8NLf8f2Fa05GE1HvVCofC2G/QUhemp7W5RtOz19gF5Hiuvqou74UNFtepdljOWw5jzUs6A==",
 =======
       "sha512": "sha512-uZesgWuBmlnAh+bi8ICkx0hQcU7QTP40SUotFKmgjPs7874WwzcTFabAVTNpwJjh/m0DI4Kz73HixTW05ct4NQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-iqNYKrn93LNLYOGz8NLf8f2Fa05GE1HvVCofC2G/QUhemp7W5RtOz19gF5Hiuvqou74UNFtepdljOWw5jzUs6A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.rewrite/2.0.3",
       "hashPath": "microsoft.aspnetcore.rewrite.2.0.3.nupkg.sha512"
     },
@@ -11872,10 +12164,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-0ogF4PLCimff9OmSdoGSBdGudGhX0EUEnLjUOLERlfNSAa9Rcwj1bHU+5r2bbyQNkIJ6pVlipYB92D9PntfhzA==",
 =======
       "sha512": "sha512-tk3RFkmh2ElGoM9x1je6XTW9PvdLnnXSqZgwNGwcxZG5sMa6UOTYyWUCWWqLOlf57cepac3kWyN0OKYi54DOsg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-0ogF4PLCimff9OmSdoGSBdGudGhX0EUEnLjUOLERlfNSAa9Rcwj1bHU+5r2bbyQNkIJ6pVlipYB92D9PntfhzA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.routing/2.0.3",
       "hashPath": "microsoft.aspnetcore.routing.2.0.3.nupkg.sha512"
     },
@@ -11883,10 +12179,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-10prhOi+zfeVk/caTP/o2y0Gc7wKg5b3R2KnV5fZ5sWfPbBjCaso7+VYz25trjTms4z+9CgVp2uftYA18R9wqw==",
 =======
       "sha512": "sha512-7c950VKIiIOOezIFSA+7w5HhhGtDC8XeJNagi0J2ofw3Mn+9iwiue66YlDtGaMnKZKqizqWKfx/hVPW12/1NKw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-10prhOi+zfeVk/caTP/o2y0Gc7wKg5b3R2KnV5fZ5sWfPbBjCaso7+VYz25trjTms4z+9CgVp2uftYA18R9wqw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.routing.abstractions/2.0.3",
       "hashPath": "microsoft.aspnetcore.routing.abstractions.2.0.3.nupkg.sha512"
     },
@@ -11894,10 +12194,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-DNVLbmknxbeVpyT0XJgsFCS7pNWZTgU6yzIjRTVDrbM0Z3vpWoRSl+OkcXLPp5Ben3BHQLPLWdToJYGwYyTGog==",
 =======
       "sha512": "sha512-lNIESWUxtbyupXGuvs7WJn+DRMVn8UqeXTHhAQDPz6OKHl2M7ztsnilmkUZV0oMEBS63zLpFqYiWVWcUBVS2aA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-DNVLbmknxbeVpyT0XJgsFCS7pNWZTgU6yzIjRTVDrbM0Z3vpWoRSl+OkcXLPp5Ben3BHQLPLWdToJYGwYyTGog==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.httpsys/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.httpsys.2.0.4.nupkg.sha512"
     },
@@ -11905,10 +12209,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-8+mVpigrvK9wMWZInlof2T6F9ptzocLncENQMr2GmMGCRDlcY+Ff5W1MGbg9V04ZLZNiomGUI8RkRjN4lReF2w==",
 =======
       "sha512": "sha512-AS/GtcczkMuJd4Hex9hv64Px5JDcZ5Bj/RzDxGm8b14rlLPpUCrIKx0g2fieBvC8ZtcZpavmcmW/1YDzFhjR5A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-8+mVpigrvK9wMWZInlof2T6F9ptzocLncENQMr2GmMGCRDlcY+Ff5W1MGbg9V04ZLZNiomGUI8RkRjN4lReF2w==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.iisintegration/2.0.3",
       "hashPath": "microsoft.aspnetcore.server.iisintegration.2.0.3.nupkg.sha512"
     },
@@ -11916,10 +12224,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-5fcvEfe/fkmFhyLqe+m3TMYPyyChZaDCLnJUn4ZJP7Ee2glfDmChfXs8fPS7KsR5jeOjbtJtGsl0CQafpE0+XQ==",
 =======
       "sha512": "sha512-3jaFVm3R7unVkiIKXkDGyX8rfUhaoZ1JjELqKuiaXG4Bj7VOUXGK82DWpvqYVepzCMRlauzUiVr+VmOjyXxolA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-5fcvEfe/fkmFhyLqe+m3TMYPyyChZaDCLnJUn4ZJP7Ee2glfDmChfXs8fPS7KsR5jeOjbtJtGsl0CQafpE0+XQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.kestrel/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.kestrel.2.0.4.nupkg.sha512"
     },
@@ -11927,10 +12239,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-p0zhVcrL+kLojfHbocGtKS1iEYJ6U6TCtPuY5qCf0OqZoTFQHNWyvIH7bVPDW53VgBhQAO/fRrVEzyNhbq41hA==",
 =======
       "sha512": "sha512-Dp5xhkD21y6AkqYhMYt+8gMt0kHXRZGblvESmJdmcz8h8lFMPH3bnUfSJEf03i6ruSW9W/rEIpJj6x8cAwAfuA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-p0zhVcrL+kLojfHbocGtKS1iEYJ6U6TCtPuY5qCf0OqZoTFQHNWyvIH7bVPDW53VgBhQAO/fRrVEzyNhbq41hA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.kestrel.core/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.kestrel.core.2.0.4.nupkg.sha512"
     },
@@ -11938,10 +12254,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-t8MGeNbnoZtwVSXcVEFtoPSqP5FXQ4154DqZxzbSIPEW3p/upY582pvYFbOri6nFKCaWmmWKf/am2sGqJIPx0A==",
 =======
       "sha512": "sha512-Yhxs5rzmBGc2LI68jWSmtEc2TPAkicbagrPL872OWGDgqYXmmp8Wsr5mtp2D0CXScHQhsPbZTxgzwESOrf9feg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-t8MGeNbnoZtwVSXcVEFtoPSqP5FXQ4154DqZxzbSIPEW3p/upY582pvYFbOri6nFKCaWmmWKf/am2sGqJIPx0A==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.kestrel.https/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.kestrel.https.2.0.4.nupkg.sha512"
     },
@@ -11949,10 +12269,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-C1RrqyT8TuPZDQSNAWVl2BukMEa73AfxMNP8o9JCz1kSN6ebAHXV6ewh3pMP5jGXjDnJw+hiHdRXHS5+ctLEKw==",
 =======
       "sha512": "sha512-xLSzNj53oVIwPUQB3Jsy0WbfXOTNYsHtjy669VSyWPAK/1kKzxYoeqMf+kTYpL8mSx6/htQBsfIXx0Y3czJ2NQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-C1RrqyT8TuPZDQSNAWVl2BukMEa73AfxMNP8o9JCz1kSN6ebAHXV6ewh3pMP5jGXjDnJw+hiHdRXHS5+ctLEKw==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.kestrel.transport.abstractions/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.kestrel.transport.abstractions.2.0.4.nupkg.sha512"
     },
@@ -11960,10 +12284,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fl/OlSto25lpW3Sg9sEdTUeXGkQ3oi4bOCS6AAouRk1XXfji2a6fNn3JCmdz/h9D1d3MZhiXlGVOddrNKprAAA==",
 =======
       "sha512": "sha512-jTQX5FLsYREpDu5jRbfF6dMj5TCl+9y1lNllpzCfJP2d0wervAJnxfzf4w5rA9LxZKocVH4e0L8hfQBR8jANXQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fl/OlSto25lpW3Sg9sEdTUeXGkQ3oi4bOCS6AAouRk1XXfji2a6fNn3JCmdz/h9D1d3MZhiXlGVOddrNKprAAA==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.server.kestrel.transport.libuv/2.0.4",
       "hashPath": "microsoft.aspnetcore.server.kestrel.transport.libuv.2.0.4.nupkg.sha512"
     },
@@ -11971,10 +12299,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-WYInv0iEmYuxsp/xstow6u+lO/zAt6hHlbEPJI29TYKKPx38vGUXL7XASgWz99cBZiEhyotZhoz8gCW8mrERMg==",
 =======
       "sha512": "sha512-zjifJ6qBc8yc5tbfzuJPSopJmcxdMYac4PCicgEaPEm+CPV3OXYe96eGXVc3el03oEJG0z7r74AkRAXqKcTttg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-WYInv0iEmYuxsp/xstow6u+lO/zAt6hHlbEPJI29TYKKPx38vGUXL7XASgWz99cBZiEhyotZhoz8gCW8mrERMg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.session/2.0.3",
       "hashPath": "microsoft.aspnetcore.session.2.0.3.nupkg.sha512"
     },
@@ -11982,10 +12314,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-RTCzyMd3xGhDjMZFZqm/KJz0VrKN+zRFb49c5yE1nW2WVt6voygKbdXbIAGxAc0eU9AX9WZhHEpkh+rNHZ2gpQ==",
 =======
       "sha512": "sha512-2o768/QADpR+PZSkNuLfyrAVJYbtuKRYOByqgvVyusxjR5QrBF4zzSq+3FArWI87nb7NOGfmC+BivoEqp6meGQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-RTCzyMd3xGhDjMZFZqm/KJz0VrKN+zRFb49c5yE1nW2WVt6voygKbdXbIAGxAc0eU9AX9WZhHEpkh+rNHZ2gpQ==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.spaservices/2.0.4",
       "hashPath": "microsoft.aspnetcore.spaservices.2.0.4.nupkg.sha512"
     },
@@ -11993,10 +12329,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-h9VzkMCKm6c9TX2iwvUCDLdYUX85clBduhoVqwYZBtnzYAaRnjeCSYBM/EsfbNCarJitcaN+sa17u6voeVllTg==",
 =======
       "sha512": "sha512-TA93jNQWrEgAuy34nz6TPveJ2NvdYHo6LVkUi06w0XccxrCCLL0hkkdUDKgDhaebds5QcO61ycCxVvJevSgWtQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-h9VzkMCKm6c9TX2iwvUCDLdYUX85clBduhoVqwYZBtnzYAaRnjeCSYBM/EsfbNCarJitcaN+sa17u6voeVllTg==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.staticfiles/2.0.3",
       "hashPath": "microsoft.aspnetcore.staticfiles.2.0.3.nupkg.sha512"
     },
@@ -12004,10 +12344,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-7ZPgr/VfKJ1s0zcdlAAppi1YhnWHzMq0pYoq7Qngxy9fIk255TWh4l+7XOtDkoBV9cl3fSsyrU5T8o4w8uIl3g==",
 =======
       "sha512": "sha512-R7jtYk+Q8bkQsVIn69WXrmTLXqcES4WJ9XOW+TOCiBW4lAsyJu1RxL/Pv8j6lVtrZHB4Mx/wP2tRYurV5ECjWA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-7ZPgr/VfKJ1s0zcdlAAppi1YhnWHzMq0pYoq7Qngxy9fIk255TWh4l+7XOtDkoBV9cl3fSsyrU5T8o4w8uIl3g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.websockets/2.0.3",
       "hashPath": "microsoft.aspnetcore.websockets.2.0.3.nupkg.sha512"
     },
@@ -12015,10 +12359,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-rjUxqCYVkzWyUWgTwye4DHItEKRTY6U2kJ0FgbuvDbkcleBjpgm1mUMvfqcjl/R0GrtrpnNMaKvhMBAHbj0t0g==",
 =======
       "sha512": "sha512-F8IOgtS9coprPzgDwZG6a4IPXTc2454vN/HFpYZnkuGbPGOxT2ygfrtlwkE+4omrzhtGOIjpuMJF+peIMuTUTQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-rjUxqCYVkzWyUWgTwye4DHItEKRTY6U2kJ0FgbuvDbkcleBjpgm1mUMvfqcjl/R0GrtrpnNMaKvhMBAHbj0t0g==",
+>>>>>>> Update setups
       "path": "microsoft.aspnetcore.webutilities/2.0.3",
       "hashPath": "microsoft.aspnetcore.webutilities.2.0.3.nupkg.sha512"
     },
@@ -12026,10 +12374,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-A82ESUdfLz2wMhYuPxrwf/fA7JVt3IARgeMCG3TsaLtxUxa9RBKX3f0zdnKmvBvJ/u1/5g03OLR26GPekqY5HQ==",
 =======
       "sha512": "sha512-yDH55c/EKEv4n3wUajrgh7KGm801/hbdkbOD+A2Axyie+4IKhzf+9CH3k8E90DfCO6OdcChKPS2YqmckVl6J2A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-A82ESUdfLz2wMhYuPxrwf/fA7JVt3IARgeMCG3TsaLtxUxa9RBKX3f0zdnKmvBvJ/u1/5g03OLR26GPekqY5HQ==",
+>>>>>>> Update setups
       "path": "microsoft.azure.keyvault/2.3.2",
       "hashPath": "microsoft.azure.keyvault.2.3.2.nupkg.sha512"
     },
@@ -12037,10 +12389,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-MVSYao62R9rwl9KF+IsJm+XBLupJj1ma2lfwNeFlSWziXGAopnYK+YkDWqABOqNIV9kpza/MvNBxITzhlJIyIw==",
 =======
       "sha512": "sha512-1dGRG0RqG4fCYzb+TXex9aPnMdTkRv+2TlCqmvp/MAyNZ1B3cZJ8tGSTKNE9MtDbxxTHJJlsFiX9Qx/HpwFG7Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-MVSYao62R9rwl9KF+IsJm+XBLupJj1ma2lfwNeFlSWziXGAopnYK+YkDWqABOqNIV9kpza/MvNBxITzhlJIyIw==",
+>>>>>>> Update setups
       "path": "microsoft.azure.keyvault.webkey/2.0.7",
       "hashPath": "microsoft.azure.keyvault.webkey.2.0.7.nupkg.sha512"
     },
@@ -12048,10 +12404,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
 =======
       "sha512": "sha512-c7NmMzyMoVNajygrrX+RF3FPiy3w/TjnnWtWSBDTc3O9UNdZ6hwyKoZXaYemiaEIC9ENC9VdRcFIvFTBq3J8Mg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
+>>>>>>> Update setups
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "hashPath": "microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512"
     },
@@ -12059,10 +12419,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-nGATpUW09zOGFLQZ3JXIObJyNlk2dvgNgC7Kh+iDpxGWgKHSgpHMXnGmXUecJa4CNi0HhUENKSnEack1aF/MwQ==",
 =======
       "sha512": "sha512-W3rdClTnJL46eMT/fjZGLDcVkyPzVmbnv9uRZuZUr62FPq9Y7sbsUhHWe+rr9KuOeWxT1/u3QacXQ3dmAjr74w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-nGATpUW09zOGFLQZ3JXIObJyNlk2dvgNgC7Kh+iDpxGWgKHSgpHMXnGmXUecJa4CNi0HhUENKSnEack1aF/MwQ==",
+>>>>>>> Update setups
       "path": "microsoft.codeanalysis.common/2.3.1",
       "hashPath": "microsoft.codeanalysis.common.2.3.1.nupkg.sha512"
     },
@@ -12070,10 +12434,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fvO7Q8FqzmWX8gzzCk4Bf34Ms06bZ6r/A9tUz1ndj3ioitAxSC2QUXbUQOJ4ExzohTtXhczJAFirgs//Nasz6A==",
 =======
       "sha512": "sha512-4rgotVyYKXlVQGqQ5Rq9IKGtIyO+hzvppPDZqE9OX3qUZD0+oaKL1cMQ4vX5o98lEXihOClgGSwaW1E9xRctwQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fvO7Q8FqzmWX8gzzCk4Bf34Ms06bZ6r/A9tUz1ndj3ioitAxSC2QUXbUQOJ4ExzohTtXhczJAFirgs//Nasz6A==",
+>>>>>>> Update setups
       "path": "microsoft.codeanalysis.csharp/2.3.1",
       "hashPath": "microsoft.codeanalysis.csharp.2.3.1.nupkg.sha512"
     },
@@ -12081,10 +12449,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-pRQxjGEqm/Gr0IU2eUbVmiUezAljtjCZDeLirYjDVqIZwxgPU97WtOojGHNYWVAvdHlYogFQU3OGxDji1Z4gpA==",
 =======
       "sha512": "sha512-rBBainKkYA9G1uPAnIOxLF6K9vq0zaRrYgvB2SLb8+r69+6dlRasfDYLdDmZiZWxEAkPwAu4dGJW2oAveHcDRg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-pRQxjGEqm/Gr0IU2eUbVmiUezAljtjCZDeLirYjDVqIZwxgPU97WtOojGHNYWVAvdHlYogFQU3OGxDji1Z4gpA==",
+>>>>>>> Update setups
       "path": "microsoft.codeanalysis.razor/2.0.3",
       "hashPath": "microsoft.codeanalysis.razor.2.0.3.nupkg.sha512"
     },
@@ -12092,10 +12464,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
 =======
       "sha512": "sha512-Mg7IqHdgGsyeXSApz85limYBHCUk4dQF4EPnSqcIfFiFA2C6bH4jdtYTsLeYnRN03BkPlNHXtbwlzGn8ASq8LA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+>>>>>>> Update setups
       "path": "microsoft.csharp/4.4.0",
       "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
     },
@@ -12117,10 +12493,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-jJXCZniFDwHGnRYd9WD3vswQCyIXk0/gsne9TLFWIpy6oK4kAcKD1BTncaHQmVg0pp/YmRBKXVIh4yXSHqbsGQ==",
 =======
       "sha512": "sha512-bUVc4fdknlFYUnEgljI13lr23YaOXO9GEw0Oo6ay8cWijUA/3raWVTNHdRIASF14RFcJ0RaWgLyRGxo7w2qF0Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-jJXCZniFDwHGnRYd9WD3vswQCyIXk0/gsne9TLFWIpy6oK4kAcKD1BTncaHQmVg0pp/YmRBKXVIh4yXSHqbsGQ==",
+>>>>>>> Update setups
       "path": "microsoft.data.sqlite/2.0.1",
       "hashPath": "microsoft.data.sqlite.2.0.1.nupkg.sha512"
     },
@@ -12128,10 +12508,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-lkUOJRJEXnXAxWKhCSFjYKLhuopw+m6ClML4cF1Rt/Ek8bBUW6hn1xAHCZ9KFqkcNOpBS7rQ6nZBaSXU3mgbOQ==",
 =======
       "sha512": "sha512-Vubn0Y9RVl82mLoL+8gA7lrbuxdA2+cJmFxfwc56bnujLtTbdcZ8Ay1k+1mGpdZ4IjUKP06IBhXaa071owXStA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-lkUOJRJEXnXAxWKhCSFjYKLhuopw+m6ClML4cF1Rt/Ek8bBUW6hn1xAHCZ9KFqkcNOpBS7rQ6nZBaSXU3mgbOQ==",
+>>>>>>> Update setups
       "path": "microsoft.data.sqlite.core/2.0.1",
       "hashPath": "microsoft.data.sqlite.core.2.0.1.nupkg.sha512"
     },
@@ -12139,10 +12523,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cXgVdJmW3fLwmSxsv0RlTe4BIKs6slVXV5xRvsO4CV4aUeY67GelaujxY/lP5yVlaMjMM22pXKbKtUY9x050Mw==",
 =======
       "sha512": "sha512-SjPzgZN6Qp4V7fCtV5gQ2bX4SJwFHQac2TXRl/zN+Z6ULKuomAt/PclgCU9YgYsWWvKCnN0vMmP7U71dnXgttQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cXgVdJmW3fLwmSxsv0RlTe4BIKs6slVXV5xRvsO4CV4aUeY67GelaujxY/lP5yVlaMjMM22pXKbKtUY9x050Mw==",
+>>>>>>> Update setups
       "path": "microsoft.dotnet.platformabstractions/2.0.3",
       "hashPath": "microsoft.dotnet.platformabstractions.2.0.3.nupkg.sha512"
     },
@@ -12150,10 +12538,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-h1qEOSOyYQU4SiPR2bvKHcH3Ik2z3eXlrlAt8WiP8AmtaUEUiEWVE/WUP5i2MvL067TJkMFuRoVOS2YU1VjiPg==",
 =======
       "sha512": "sha512-c1E/qD/IfKgy1adQe6KMIyldntZN6xvZASU2Q3oF3dcz8vcrvthpzM81PMXVuiLnZB82+lsnXUT8+b7BX61JjA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-h1qEOSOyYQU4SiPR2bvKHcH3Ik2z3eXlrlAt8WiP8AmtaUEUiEWVE/WUP5i2MvL067TJkMFuRoVOS2YU1VjiPg==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.2.0.3.nupkg.sha512"
     },
@@ -12161,10 +12553,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-hWmbmZg0BhXD3/zuR/w3tCfLyPHpQ52GRPKt80vSmnFOnqaa+/Di7v0zOfPQMmn9gXiZ0hAtx5ywvwRNCTCzBg==",
 =======
       "sha512": "sha512-A3lW1FqIIB4aAVS6Vy1NxsC0/p/SHQJo0YPBJqQfsFtD98jrbv7OezYcaY3mr9ysxJ4xPqMHaCmxjiJMX1hDEA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-hWmbmZg0BhXD3/zuR/w3tCfLyPHpQ52GRPKt80vSmnFOnqaa+/Di7v0zOfPQMmn9gXiZ0hAtx5ywvwRNCTCzBg==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.design/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.design.2.0.3.nupkg.sha512"
     },
@@ -12172,10 +12568,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-8uPnfggdaJPB6ZlXotRJQwxVADsgtBd1m/eGb560v8aa4OT9mFPQN9Imqy/B//mcvM8oAHFJf2u/lXde8zclSA==",
 =======
       "sha512": "sha512-aeyDSOi0JcG2zeiO44rdLo8vqnewwSyGTSJkn+bim6XAGMeqxxRqYpuU+aJLCBIW+OdgAK2vTeya4/LdhtI31A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-8uPnfggdaJPB6ZlXotRJQwxVADsgtBd1m/eGb560v8aa4OT9mFPQN9Imqy/B//mcvM8oAHFJf2u/lXde8zclSA==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.inmemory/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.inmemory.2.0.3.nupkg.sha512"
     },
@@ -12183,10 +12583,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fXOrHnoXUzdVc2S+NsdGcT963hbgQ3DdF9e+anB21b36HIQM0ZcLrPyI8fC5lQA9T1sFuKQ/tKvbShzm/0aWWw==",
 =======
       "sha512": "sha512-JY0kQ4HIKKXOyJC6hvt5v+DKMMdwTmB7qgnVhjiCKT6vuzPmWoGaHHlu+oIjrKKnGgigLW1sWRtfL/5fQNc9+A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fXOrHnoXUzdVc2S+NsdGcT963hbgQ3DdF9e+anB21b36HIQM0ZcLrPyI8fC5lQA9T1sFuKQ/tKvbShzm/0aWWw==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.relational/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.relational.2.0.3.nupkg.sha512"
     },
@@ -12194,10 +12598,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Bwi4Zls+xKPOkh/IRNZ4VII7YS/yNZ2LyYnbJQxhqEVM42CozsQQXUlUo/pedog0ZGuFRztQUVgRavCk6Ee+Hg==",
 =======
       "sha512": "sha512-G7BbCJB0H5OVM/77Uc81ednnOvXnq/1ZQBJQMPX+6O66q1PSwvwidH1/tQLH46GITzBFnFC3W+leobPZJrjbmQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Bwi4Zls+xKPOkh/IRNZ4VII7YS/yNZ2LyYnbJQxhqEVM42CozsQQXUlUo/pedog0ZGuFRztQUVgRavCk6Ee+Hg==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.sqlite/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.sqlite.2.0.3.nupkg.sha512"
     },
@@ -12205,10 +12613,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-8aw71keGpBNEjnKC6fTLP+Uid2Z4I24bF3zf4AwWFigdwQ0bCsz+RcflDQkLiBqV67f34Sf6f1CLM8bq8aW4fw==",
 =======
       "sha512": "sha512-YuiRVanhzzaqgwEEUlt4dAS8S8N5kv49UUwKwXjMBFLX0EhuKpqtFJbO12DX2bK4SJCX6lUgtEER6dpxowYvvA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-8aw71keGpBNEjnKC6fTLP+Uid2Z4I24bF3zf4AwWFigdwQ0bCsz+RcflDQkLiBqV67f34Sf6f1CLM8bq8aW4fw==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.sqlite.core/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.sqlite.core.2.0.3.nupkg.sha512"
     },
@@ -12216,10 +12628,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-kbYgPZxFIs3Mlz6AdOA+/RrS28o1ehyoRP2RzbEdG8NkqO2lHbMPTBHFmQAlOVLlb2XBOaj96SMtwjRuRruuSg==",
 =======
       "sha512": "sha512-Sbhabuc86hcV6LdueRFKYJONVMVv09cxvea79dWgDju6zF7jpvDM/uLx9gJIjWZLmY5CCgVKy+ne87fNRIQCpg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-kbYgPZxFIs3Mlz6AdOA+/RrS28o1ehyoRP2RzbEdG8NkqO2lHbMPTBHFmQAlOVLlb2XBOaj96SMtwjRuRruuSg==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.sqlserver/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.2.0.3.nupkg.sha512"
     },
@@ -12227,10 +12643,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KOkhbzPTFJa/NEduIdT8o1vOKUZAVvcfyR5rFIKUvFGSSEU2tkmEkJ0ZFxZzpbltD7cj03DlvMlB83RTyYraPg==",
 =======
       "sha512": "sha512-92cc/VXdKYIPg9tntXGC02reCj8ksmwstBCsOrQpHK4Jmg+ucZ2OanATwtulzAu90hoQTFw5dhlm4mAL/ApKuw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KOkhbzPTFJa/NEduIdT8o1vOKUZAVvcfyR5rFIKUvFGSSEU2tkmEkJ0ZFxZzpbltD7cj03DlvMlB83RTyYraPg==",
+>>>>>>> Update setups
       "path": "microsoft.entityframeworkcore.tools/2.0.3",
       "hashPath": "microsoft.entityframeworkcore.tools.2.0.3.nupkg.sha512"
     },
@@ -12238,10 +12658,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-X0+dBcQHmOlPz2BOty8mQtku0TCffCIkvqEvLi4iNNubDjY0G1zwFVpBdJb1P0nEMbcfbh3EgBVHf8OJWvq3iw==",
 =======
       "sha512": "sha512-+MfE9PGzyS9PT72JYwFWZMAOgQ2SIqj6oezFiu16bxSbVdTQpzMnF3KaHZ83zoYnRQisq5DB4OT0Ejrc1g4eSw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-X0+dBcQHmOlPz2BOty8mQtku0TCffCIkvqEvLi4iNNubDjY0G1zwFVpBdJb1P0nEMbcfbh3EgBVHf8OJWvq3iw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.caching.abstractions/2.0.2",
       "hashPath": "microsoft.extensions.caching.abstractions.2.0.2.nupkg.sha512"
     },
@@ -12249,10 +12673,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-tI8xks60vEmuRiXDwnRBnNWEZG5CeInh2ZyAhBelkxhNM8hDZJDw4tnyCRCeyHFh+oi7dQXMSIij67S3p5SvYg==",
 =======
       "sha512": "sha512-iJEGKtlqVXwbu2+PMwk3BcBF660flAOwcuFxhMV12wMT4G+eqU3ctqWruC0nVfhWz8QfkXMQPrLr0P4PwiUfHg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-tI8xks60vEmuRiXDwnRBnNWEZG5CeInh2ZyAhBelkxhNM8hDZJDw4tnyCRCeyHFh+oi7dQXMSIij67S3p5SvYg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.caching.memory/2.0.2",
       "hashPath": "microsoft.extensions.caching.memory.2.0.2.nupkg.sha512"
     },
@@ -12260,10 +12688,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-jbdKO6GKymVT717CBuOB6gzSUEBb+HSA69IqD4z9HEfY4A9kKkHuAowyP3bwH84DxbT5Vsd0xna4/uWwNqDlEw==",
 =======
       "sha512": "sha512-ftdZRKGzrutoYfkiz8rus6JbY8X1q8FTeETaugyW4U/Lmjy/d2Gx2i/sXCRdCyRmrKPFvQD/BXTpktNak3bOtw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-jbdKO6GKymVT717CBuOB6gzSUEBb+HSA69IqD4z9HEfY4A9kKkHuAowyP3bwH84DxbT5Vsd0xna4/uWwNqDlEw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.caching.redis/2.0.2",
       "hashPath": "microsoft.extensions.caching.redis.2.0.2.nupkg.sha512"
     },
@@ -12271,10 +12703,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-9f3Q2/eq/4JQx8Q0N6A6TsETf5JFszRHHq/15yalpfkH++ZHVIgI4Mp2QjZP2cc4mRBSOFM/HY0Cd3SzpWNu2g==",
 =======
       "sha512": "sha512-l3lVj0EmLVlt4Qt5TuJo3LKKYB8pNjQMYXewTb5O/0RGoHQCSdcsG2DWr4YgvwbaR6ZH4DmI5tek8oZxU4/XXA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-9f3Q2/eq/4JQx8Q0N6A6TsETf5JFszRHHq/15yalpfkH++ZHVIgI4Mp2QjZP2cc4mRBSOFM/HY0Cd3SzpWNu2g==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.caching.sqlserver/2.0.2",
       "hashPath": "microsoft.extensions.caching.sqlserver.2.0.2.nupkg.sha512"
     },
@@ -12282,10 +12718,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-n5HeFXiEFONntcwVFvEGY5dnB8VRqGD20RrdB9omX6dAAUSIV/sGwGhaLV5neOt/uvhc64VDmKjIjdffC6TX5A==",
 =======
       "sha512": "sha512-QFSbXvApLNX2fi47tLBkQnMf9gy4YO995Z0202F0s1Epz3HV7EkXWaE6EsreMqo8RIEMZe/7mFzR+IHI8YIM1Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-n5HeFXiEFONntcwVFvEGY5dnB8VRqGD20RrdB9omX6dAAUSIV/sGwGhaLV5neOt/uvhc64VDmKjIjdffC6TX5A==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration/2.0.2",
       "hashPath": "microsoft.extensions.configuration.2.0.2.nupkg.sha512"
     },
@@ -12293,10 +12733,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-IoTZQU9aQOHr9zQbwozyzWq25eFbu/EcUZnPAMum6hh0Nl2RuM7ieziNLk3xk+c2g8YnnmxiA3VEvVaCFYCoTQ==",
 =======
       "sha512": "sha512-NG7WmFlt0gQhTF4do3PIt+RYooa2WK8jxCSso4dtcRQmXbvxV+/RrZ2s4xC4HnVx4WLwXpH3t/nM9gGTT4juDA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-IoTZQU9aQOHr9zQbwozyzWq25eFbu/EcUZnPAMum6hh0Nl2RuM7ieziNLk3xk+c2g8YnnmxiA3VEvVaCFYCoTQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.abstractions/2.0.2",
       "hashPath": "microsoft.extensions.configuration.abstractions.2.0.2.nupkg.sha512"
     },
@@ -12304,10 +12748,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-75PReSfZLRmAF0YZ1m9hQsbwMn5kit7yL+MFzDfbfszH0zDQBvqlu1gQVZJb0yjn5+5Dz9RR6SpkqV9jnpIDVQ==",
 =======
       "sha512": "sha512-OT1Fi6TUGyAi6xSc72m9ZLiZg68PPIt+PuevKJ/joiLQaNmYKW2l4aqgx5ipz2Kzo10BSpndFVMdAIJXbJUlzg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-75PReSfZLRmAF0YZ1m9hQsbwMn5kit7yL+MFzDfbfszH0zDQBvqlu1gQVZJb0yjn5+5Dz9RR6SpkqV9jnpIDVQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.azurekeyvault/2.0.2",
       "hashPath": "microsoft.extensions.configuration.azurekeyvault.2.0.2.nupkg.sha512"
     },
@@ -12315,10 +12763,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-QO7j0yme7e5D3PJDwtJWLmsmGfDnc9OVMnt2UmXKTekcYKsEpKMUINULfXtMHHLoPymH8BZaqly/vWw97rQoWg==",
 =======
       "sha512": "sha512-XcUnqQf+hONUDt7rVCFvUCpJkid49XjmO0wxcJ1d3F5f0rgOvBfP+vCp/P4N6cUB1wU+pmHJINShrftx3NoaTg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-QO7j0yme7e5D3PJDwtJWLmsmGfDnc9OVMnt2UmXKTekcYKsEpKMUINULfXtMHHLoPymH8BZaqly/vWw97rQoWg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.binder/2.0.2",
       "hashPath": "microsoft.extensions.configuration.binder.2.0.2.nupkg.sha512"
     },
@@ -12326,10 +12778,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-DTyBGC28gL/kaMk5F4XsbAHu6kaWFtfJrs77m2MYrQddMFSQUAPysV42i9QyJoVLWZGTps4vA0OB/SwarMpl7A==",
 =======
       "sha512": "sha512-AjlsGcY+AJAftT0CJzC/meyFKWEeP309CHkZFXU2KmsmHITi/SJlNItLp3MxMshEBYhGzKeq4XYOEFwNoYzALQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-DTyBGC28gL/kaMk5F4XsbAHu6kaWFtfJrs77m2MYrQddMFSQUAPysV42i9QyJoVLWZGTps4vA0OB/SwarMpl7A==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.commandline/2.0.2",
       "hashPath": "microsoft.extensions.configuration.commandline.2.0.2.nupkg.sha512"
     },
@@ -12337,10 +12793,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-NxoOopUxTVrogDtVQC9GF6Gk6f8JwwieArodu4ESVV07bB+jfMLnDwbKE/nWkAAu8ESnmX9s6wcD88kpfaD+zQ==",
 =======
       "sha512": "sha512-j7qa7Q9wkaDMm3X6z0Zxia0ZPGchTkO4P8Zo6SZRo0EaS9r9+vckAbQnYZTdLY4j3VLRCfYQvqLTGqcOVkWQtA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-NxoOopUxTVrogDtVQC9GF6Gk6f8JwwieArodu4ESVV07bB+jfMLnDwbKE/nWkAAu8ESnmX9s6wcD88kpfaD+zQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.environmentvariables/2.0.2",
       "hashPath": "microsoft.extensions.configuration.environmentvariables.2.0.2.nupkg.sha512"
     },
@@ -12348,10 +12808,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Axc13qp2kYf6VUmUBCMmRCGIc1CmWC5xQ33MD9D8nB9hYZrbjh6IqNj10fHDG1UE+4L24H8fSeYJCMyGfa+VZg==",
 =======
       "sha512": "sha512-9uB1yjxRrkPQNQpKM6zacPW5ZFWtho1cRZoeD6YbxF09FAjC4rN9IITG9AZBAmosJunrX2oYtb3HN2MaCHfcig==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Axc13qp2kYf6VUmUBCMmRCGIc1CmWC5xQ33MD9D8nB9hYZrbjh6IqNj10fHDG1UE+4L24H8fSeYJCMyGfa+VZg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.fileextensions/2.0.2",
       "hashPath": "microsoft.extensions.configuration.fileextensions.2.0.2.nupkg.sha512"
     },
@@ -12359,10 +12823,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-jA3v2sEDueM/JiuSzy5qlALbOXFWPCtwxqyHMBw1u3cV12zBbtMr1TJYJITUpAt2R37GOl9DUWU/jU/vYY6szg==",
 =======
       "sha512": "sha512-eqas6xQkt+qrrFaZfz4xtH/FWaCdC7mBEDTbpvaYTq2VhbnOiBoiqwwjotFDFa5HpiYZa28D2xZkLvVLB2LbJQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-jA3v2sEDueM/JiuSzy5qlALbOXFWPCtwxqyHMBw1u3cV12zBbtMr1TJYJITUpAt2R37GOl9DUWU/jU/vYY6szg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.ini/2.0.2",
       "hashPath": "microsoft.extensions.configuration.ini.2.0.2.nupkg.sha512"
     },
@@ -12370,10 +12838,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-dbx6tQ0uWc/8GoH2HJUaRtPG0X8puyeZIbXatu4I0b+xV23oFv7FdegPRlYrwnuyinqhAD3G2uR1YtJG0BgiNg==",
 =======
       "sha512": "sha512-3JkSePC8IRgwUkC4iU/466MCH8BI0Ipy4VufF0O/Cwre7AcrIttqT6LtvMukbG8zGwwvJgSxMkC7hTbOtg7ohg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-dbx6tQ0uWc/8GoH2HJUaRtPG0X8puyeZIbXatu4I0b+xV23oFv7FdegPRlYrwnuyinqhAD3G2uR1YtJG0BgiNg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.json/2.0.2",
       "hashPath": "microsoft.extensions.configuration.json.2.0.2.nupkg.sha512"
     },
@@ -12381,10 +12853,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-q80Y2eeb3370RfaZmCOJnunI64skIihlnR5WjWdSoNYq3p7sbeOPdg6CyiRthOz2jtmPSqxXfd+/UU7L3SuNOQ==",
 =======
       "sha512": "sha512-NlUYrGHh1HUDtLGK2EcEK491XDw869BMFRDp9GMeeQ7PjaD4e7sra/zqsVrKAc1Ql+a4Pj557wwm8q8sz1NC4A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-q80Y2eeb3370RfaZmCOJnunI64skIihlnR5WjWdSoNYq3p7sbeOPdg6CyiRthOz2jtmPSqxXfd+/UU7L3SuNOQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.usersecrets/2.0.2",
       "hashPath": "microsoft.extensions.configuration.usersecrets.2.0.2.nupkg.sha512"
     },
@@ -12392,10 +12868,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ZxZJJc9+tY8JcuiKEQfzIX8mEpFXGP59jHb1JhmCJEG0Fki9fxmttt5KKD+g1uqVZ7TKxrx25iufQOlpO+IChA==",
 =======
       "sha512": "sha512-Q9M9/D252qG+CCXbJQpPB9OHt9Pqqd+Jq3N9NxHgesQpL48OcphDORwgYk1VEt7AdgY/2Dy1stqmgMXAENIDsw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ZxZJJc9+tY8JcuiKEQfzIX8mEpFXGP59jHb1JhmCJEG0Fki9fxmttt5KKD+g1uqVZ7TKxrx25iufQOlpO+IChA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.configuration.xml/2.0.2",
       "hashPath": "microsoft.extensions.configuration.xml.2.0.2.nupkg.sha512"
     },
@@ -12403,10 +12883,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-wakg18gHYiUL1pcjjyZuYk6OvDpbSw1E7IWxm78TMepsr+gQ8W0tWzuRm0q/9RFblngwPwo15rrgZSUV51W5Iw==",
 =======
       "sha512": "sha512-aimtR3Dh78z3NuaLXvsvOFz77bIgF/NAQ/03Dvgk9Grl6VqFq7rorVSyXoBmjpVK+G64iIf54JXVFOQB93FzlA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-wakg18gHYiUL1pcjjyZuYk6OvDpbSw1E7IWxm78TMepsr+gQ8W0tWzuRm0q/9RFblngwPwo15rrgZSUV51W5Iw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.dependencyinjection/2.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512"
     },
@@ -12414,10 +12898,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
 =======
       "sha512": "sha512-VN6zV4xkMKIxIP48kQzXieZPWXUeGL3M1nQvgXCm44EAvi2eC0gYj/ldrfPde4JF3TOypAENZvuJX1qkTFAgew==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
     },
@@ -12425,10 +12913,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-OiNYN/QeZLuYcn4CvYrOmYgODPB1Jpqft+cT4F3Hkq5poj+1DLfbIBftMI/Pn8J7DyHhYeBMLxJUuugjvk/Fuw==",
 =======
       "sha512": "sha512-hURToQHB3f5lrAzdDFtcmV/b/qg7o8Ldnj3iU68/unXEzmEUCwhXNkqeINb67L/rbomEkBfwbL6LWumv9g/LcA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-OiNYN/QeZLuYcn4CvYrOmYgODPB1Jpqft+cT4F3Hkq5poj+1DLfbIBftMI/Pn8J7DyHhYeBMLxJUuugjvk/Fuw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.dependencymodel/2.0.3",
       "hashPath": "microsoft.extensions.dependencymodel.2.0.3.nupkg.sha512"
     },
@@ -12436,10 +12928,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-w8nux+yppIAD3ouzLz3CEtUMj03WIQ9FAmuR6IhrCpQDcoMtajlZIkZLbryJE1jdF1wkewLLM2LpXasfu7HzQw==",
 =======
       "sha512": "sha512-7HO5TlPQMqMoIYRZ0gQDkqi97FCZEHsSXzFIWlrHG2faOfZorN6syEmdMq/lHYBAisPfhdz1eGkhuOzmCuZKMw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-w8nux+yppIAD3ouzLz3CEtUMj03WIQ9FAmuR6IhrCpQDcoMtajlZIkZLbryJE1jdF1wkewLLM2LpXasfu7HzQw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.diagnosticadapter/2.0.1",
       "hashPath": "microsoft.extensions.diagnosticadapter.2.0.1.nupkg.sha512"
     },
@@ -12447,10 +12943,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Gzc5yXvwIrKpdti0Ev4jC0inVrGZpI86eLZorMVRqAPXowR8JDRbcHjhmID2EqA4rdhL/IsfD42+4upKpHULDw==",
 =======
       "sha512": "sha512-6nWyJ6KAc/TQzN2SN0/GbCyPUgqGKldepQhU2rCer8I4YYu1dhNGBJXUvBqUGLncuv+pYTLbqcoIXpS8857ZYw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Gzc5yXvwIrKpdti0Ev4jC0inVrGZpI86eLZorMVRqAPXowR8JDRbcHjhmID2EqA4rdhL/IsfD42+4upKpHULDw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.fileproviders.abstractions/2.0.1",
       "hashPath": "microsoft.extensions.fileproviders.abstractions.2.0.1.nupkg.sha512"
     },
@@ -12458,10 +12958,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-bgAUXH3T/Y1R5bCthCiZVzEX4spvNeIHRv6+Jr4BJMxPVSFm/8er7xvywd2NCayv94frKZdDGP3mjAQZenZDxQ==",
 =======
       "sha512": "sha512-XQgLy2EJhQwFtWFEaxidEFH5CG6UpJksUumAZFH1/DySRFyVqoUY6fExCqMNRwFUZMio6tr2eYvQGVYoNTKhGg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-bgAUXH3T/Y1R5bCthCiZVzEX4spvNeIHRv6+Jr4BJMxPVSFm/8er7xvywd2NCayv94frKZdDGP3mjAQZenZDxQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.fileproviders.composite/2.0.1",
       "hashPath": "microsoft.extensions.fileproviders.composite.2.0.1.nupkg.sha512"
     },
@@ -12469,10 +12973,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-PH1oo04WCbKy42aga6bC4phl1rZfbFsZLuozJN1LGUUZTCnycUAZzCqG6MNRCgRiHg2bPexiQ15708vSwnuBHQ==",
 =======
       "sha512": "sha512-dupuUHdRuZCtSAAacLzhblRz4qHUh4PXI4hDZq7sj0KteHjyJTjcEYmKocxXexr18d2OuuYRqt57NChldouLzQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-PH1oo04WCbKy42aga6bC4phl1rZfbFsZLuozJN1LGUUZTCnycUAZzCqG6MNRCgRiHg2bPexiQ15708vSwnuBHQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.fileproviders.embedded/2.0.1",
       "hashPath": "microsoft.extensions.fileproviders.embedded.2.0.1.nupkg.sha512"
     },
@@ -12480,10 +12988,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-h+6bcXYlGldl7BUhnQKFxL2sMfeg9Gr/AuVexYOCYWmzDsc4iyUoy3NL7i2vkG209wd0ZXf+pZzRDwGPFhmlSw==",
 =======
       "sha512": "sha512-B5ClW+cSyTcF+Uw3u0o80a8+BIXLd201QAUm2h8RC+ayFjuVC2oxGFGKuxK5JRJgTzQdGrYXo/hZo3z5O8Gnpw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-h+6bcXYlGldl7BUhnQKFxL2sMfeg9Gr/AuVexYOCYWmzDsc4iyUoy3NL7i2vkG209wd0ZXf+pZzRDwGPFhmlSw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.fileproviders.physical/2.0.1",
       "hashPath": "microsoft.extensions.fileproviders.physical.2.0.1.nupkg.sha512"
     },
@@ -12491,10 +13003,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-q7KsG2kjwo2Ps0WdV7MFh64cQS0UHikV8qv4HQrUfWQyxim5vNmLzAbuduarS9QWbhRHTtUanx+ohyAQdumdnw==",
 =======
       "sha512": "sha512-hliiQonrc79MZQSy70mpvfSN/yKFk9zPuYYF711iq4iDqQObwjBKje1w4gK3ISw6iyEF58kAeGuM2XnUpLxswA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-q7KsG2kjwo2Ps0WdV7MFh64cQS0UHikV8qv4HQrUfWQyxim5vNmLzAbuduarS9QWbhRHTtUanx+ohyAQdumdnw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.filesystemglobbing/2.0.1",
       "hashPath": "microsoft.extensions.filesystemglobbing.2.0.1.nupkg.sha512"
     },
@@ -12502,10 +13018,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-r5QYhMYRjY/JbkE1x6kgRDZUJixJ8YngaN4BHy8/EtLxBDL98Je8IrElPHExh6QQPLKu0KYzt+9oLBR0L98i7A==",
 =======
       "sha512": "sha512-huCOv7hSh3JP3dqmYHZedr/1RtvXfyYvWbrEcZjn0m/TNtSVysKXQ9ffNVAnM5w6qO+ptzcq82FWV+H8UVFnDg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-r5QYhMYRjY/JbkE1x6kgRDZUJixJ8YngaN4BHy8/EtLxBDL98Je8IrElPHExh6QQPLKu0KYzt+9oLBR0L98i7A==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.hosting.abstractions/2.0.3",
       "hashPath": "microsoft.extensions.hosting.abstractions.2.0.3.nupkg.sha512"
     },
@@ -12513,10 +13033,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-iaGFRmh6kzwqV4c5c/o+RL8JHVLxbdPR1Dyad7kOyt+gHfk1KEYF9tHLcd4Ot/DaInmbeK274NVSSz9H6lI2Bw==",
 =======
       "sha512": "sha512-5VrRnwy5+KBlhj8hKKfkzdVr475lCqjB1eDzFap3tNgLKKojZgJ8ig0MXOtTCF3i0gP8T9ijWBCTEMJ9DnGriw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-iaGFRmh6kzwqV4c5c/o+RL8JHVLxbdPR1Dyad7kOyt+gHfk1KEYF9tHLcd4Ot/DaInmbeK274NVSSz9H6lI2Bw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.identity.core/2.0.4",
       "hashPath": "microsoft.extensions.identity.core.2.0.4.nupkg.sha512"
     },
@@ -12524,10 +13048,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-IWYmNgqdU+/a3dkDrZT/frr7YVGXXKtNfzHQ4Q5IjuNNl7QiIk8iNTMCWX4998AGy/EvOqlW2TO1MawLUh3IeA==",
 =======
       "sha512": "sha512-5/wOyD7MUtRHd9lcOgzyeqh+dG/00e6uUbyJl81jIt5B2RjLMhglMU/BOp5Zr2FexBU/1KwraviH+VdSb0u0cA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-IWYmNgqdU+/a3dkDrZT/frr7YVGXXKtNfzHQ4Q5IjuNNl7QiIk8iNTMCWX4998AGy/EvOqlW2TO1MawLUh3IeA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.identity.stores/2.0.4",
       "hashPath": "microsoft.extensions.identity.stores.2.0.4.nupkg.sha512"
     },
@@ -12535,10 +13063,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-BLZaopjCWCT2V7Ado4on0/O97vFfFTLGd6WmZrt3e+L0Y6rDaRLCey35hf0kOrymmGzGqN+aN/Ln1cxuvo0FMw==",
 =======
       "sha512": "sha512-bXKiEIEj4M8Py8mvIjvTawTvvuJdnhzQsbuFvaQu2sXGY/FjhYJmkhkvP7Jlf8NJgIVJUQsXSZpEMRQ2d3DjPw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-BLZaopjCWCT2V7Ado4on0/O97vFfFTLGd6WmZrt3e+L0Y6rDaRLCey35hf0kOrymmGzGqN+aN/Ln1cxuvo0FMw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.localization/2.0.3",
       "hashPath": "microsoft.extensions.localization.2.0.3.nupkg.sha512"
     },
@@ -12546,10 +13078,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-R+aRSDqwe7o00G3iYwD3jBb+4Gy5HFbZknKXIkVpRAAeL3Wir/ildmBjbMw5yINQFKHh8Ozm8iW4Y1xHq+RGYw==",
 =======
       "sha512": "sha512-gmyp//y8X58081LfdWTd9J/jgOED7HvumbxaTdp8zSoW5zaNdcPD+RglAWTOj9r8p7dqjVj9wSjcjSEYywUDbQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-R+aRSDqwe7o00G3iYwD3jBb+4Gy5HFbZknKXIkVpRAAeL3Wir/ildmBjbMw5yINQFKHh8Ozm8iW4Y1xHq+RGYw==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.localization.abstractions/2.0.3",
       "hashPath": "microsoft.extensions.localization.abstractions.2.0.3.nupkg.sha512"
     },
@@ -12557,10 +13093,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-OAfe/ju23vgXyqG/E9eDQ8lE5ydMV/IruvHqZ8MRi3T8DTpdL+kDGhDR/zqChnnTcalsZV31bB1OPn75RLHdqQ==",
 =======
       "sha512": "sha512-mfMYF9jTU4K8cKW/UDdnKBvNHeOBI5cNO08+wZpKRI8kqSIlHokcdNERnaVQrEHGKkV4VRVnh08qBNbwbv6ILw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-OAfe/ju23vgXyqG/E9eDQ8lE5ydMV/IruvHqZ8MRi3T8DTpdL+kDGhDR/zqChnnTcalsZV31bB1OPn75RLHdqQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging/2.0.2",
       "hashPath": "microsoft.extensions.logging.2.0.2.nupkg.sha512"
     },
@@ -12568,10 +13108,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-B1F5GAMGCIuYzL1LouJ08ie+CrTYGzLVd1gfJHWpjXtIfNwzs2PZxsuLYLIAqMTlpiDcoB8PSZHbzU5bMOi+gg==",
 =======
       "sha512": "sha512-cu1lJnvs0SgkUcdsehSv6KVSy7hYp9soicmWKJL4jfGlpP4LmZxipSCTMumlMDZ44/XQnxFSUsPPRExmc+rXqg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-B1F5GAMGCIuYzL1LouJ08ie+CrTYGzLVd1gfJHWpjXtIfNwzs2PZxsuLYLIAqMTlpiDcoB8PSZHbzU5bMOi+gg==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.abstractions/2.0.2",
       "hashPath": "microsoft.extensions.logging.abstractions.2.0.2.nupkg.sha512"
     },
@@ -12579,10 +13123,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fRbDNL/u9DFLz21YnM0idUP/Qyav/5k6VdGp5gyRHgPNyD4Q0ZOBvhlV79hLH3hdujzdKA8GX/DFbUDStI+m+Q==",
 =======
       "sha512": "sha512-rY69F9rclEArCvX3HbJxe2A3SjWepxbsKv5eH6CWsuyPcYlhxQEPad4idOJW0nYajavvQxOfKo6d8jnOHjEIjQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fRbDNL/u9DFLz21YnM0idUP/Qyav/5k6VdGp5gyRHgPNyD4Q0ZOBvhlV79hLH3hdujzdKA8GX/DFbUDStI+m+Q==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.azureappservices/2.0.2",
       "hashPath": "microsoft.extensions.logging.azureappservices.2.0.2.nupkg.sha512"
     },
@@ -12590,10 +13138,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-twYiZLG4Yxmo9rMJbCq2tlmq4vHTnDMrneS5WSsx+TvDXP6K53Yg3ObVp4rRns6Lei/KGhn++rRO2KCgT7aJNA==",
 =======
       "sha512": "sha512-Kr9MzeLnA8D1u3nrSqUKxkSGHlC/ILWtTPpiPClGJekh1bWIhHeZcpyD5o8uQ8llSyYTJgfeAIV46gevVpcB0w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-twYiZLG4Yxmo9rMJbCq2tlmq4vHTnDMrneS5WSsx+TvDXP6K53Yg3ObVp4rRns6Lei/KGhn++rRO2KCgT7aJNA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.configuration/2.0.2",
       "hashPath": "microsoft.extensions.logging.configuration.2.0.2.nupkg.sha512"
     },
@@ -12601,10 +13153,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-6Bfhw152LogpEk7Au9wyomeat68k9ZedcR7CX/IdYuTu34sG5jYgiK4m1Yt089ewOaslYAOgbDIzZI0MPvm8UQ==",
 =======
       "sha512": "sha512-jDQO3sRAEUNCnhTYlnNgrObZmrfkMG+jQj4YJLObvoL97ugBGpcxJuXqnUtzLq/pif69WBrkl0ypXJpeoi2UiA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-6Bfhw152LogpEk7Au9wyomeat68k9ZedcR7CX/IdYuTu34sG5jYgiK4m1Yt089ewOaslYAOgbDIzZI0MPvm8UQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.console/2.0.2",
       "hashPath": "microsoft.extensions.logging.console.2.0.2.nupkg.sha512"
     },
@@ -12612,10 +13168,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-vKSQBCU/MASzFZRAIFjEcSBZzoVHsLv8uGLoC2X8DxZsFnhodm2YlrXvH+SltIcbPX/2kp7bGYYVfiIXP+lbPQ==",
 =======
       "sha512": "sha512-9LlvDHHAm1P1sSicbXnwZGb/GaN86cOJTCxXm39G1VL02mzSVv2QawLvLiQZ1LLNSpYvR6YYnYvP6wEUYR/KUQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-vKSQBCU/MASzFZRAIFjEcSBZzoVHsLv8uGLoC2X8DxZsFnhodm2YlrXvH+SltIcbPX/2kp7bGYYVfiIXP+lbPQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.debug/2.0.2",
       "hashPath": "microsoft.extensions.logging.debug.2.0.2.nupkg.sha512"
     },
@@ -12623,10 +13183,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/+v4fyWd9MJ/wcKBvOjDGwdUX7tfnaxVQ/wSxjNlM2CMnTU9Zs9r9BDGm4l6lq/WfNXE6NUwLGCR3hn6GZSF+Q==",
 =======
       "sha512": "sha512-PmS3C1F7FxCELvqx6ZkhW1WvCUb9dY4mFbL96sGK5c0jSeoLG/HMpQjv7NCXcrLOUhUDGnMS9zh4wWLAN8lLDg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/+v4fyWd9MJ/wcKBvOjDGwdUX7tfnaxVQ/wSxjNlM2CMnTU9Zs9r9BDGm4l6lq/WfNXE6NUwLGCR3hn6GZSF+Q==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.eventsource/2.0.2",
       "hashPath": "microsoft.extensions.logging.eventsource.2.0.2.nupkg.sha512"
     },
@@ -12634,10 +13198,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-s6+6XHT9idgZltoSiv2AcnH4Fcd5Ux/IbmBpZfgLqmUm6ojNE8s2fdKCSgR9BlR7XQAQEcewg4s2H1q99pwpPQ==",
 =======
       "sha512": "sha512-EsJE56u0irulECf/eY0479DSNU6NZ0pITgqajraSQTgFaDkG99urIZ5g35tdiki5IioBmwg7zA+eQZvGRa/8DQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-s6+6XHT9idgZltoSiv2AcnH4Fcd5Ux/IbmBpZfgLqmUm6ojNE8s2fdKCSgR9BlR7XQAQEcewg4s2H1q99pwpPQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.logging.tracesource/2.0.2",
       "hashPath": "microsoft.extensions.logging.tracesource.2.0.2.nupkg.sha512"
     },
@@ -12645,10 +13213,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-drOmgNZCJiNEqFM/TvyqwtogS8wqoWGQCW5KB/CVGKL6VXHw8OOMdaHyspp8HPstP9UDnrnuq+8eaCaAcQg6tA==",
 =======
       "sha512": "sha512-8/wlWL022OwUIXACOVUSOu/XrP1Dj9F8uZ9CCx7C9b71gwk25p4RMUAaOGSiMBuaI9mmqOpH2RUGi2T/mlYdwA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-drOmgNZCJiNEqFM/TvyqwtogS8wqoWGQCW5KB/CVGKL6VXHw8OOMdaHyspp8HPstP9UDnrnuq+8eaCaAcQg6tA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.objectpool/2.0.0",
       "hashPath": "microsoft.extensions.objectpool.2.0.0.nupkg.sha512"
     },
@@ -12656,10 +13228,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-OrIk/xmo5rsN4ufV32cjAQgM9uCoe6FaNijFX7Huwdg8T3z5L5r1kMBMwjROvDJZNiNkcfJ6iJi2JhCRi6GTfA==",
 =======
       "sha512": "sha512-VNLQ07aSNstSDYVY4PXKzMtoDCy3N9ee7Yy4ejG3CVD3iGNmhLPvFd3HAcGH7IFQECm9RBX1n2574Mvmm8CLsQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-OrIk/xmo5rsN4ufV32cjAQgM9uCoe6FaNijFX7Huwdg8T3z5L5r1kMBMwjROvDJZNiNkcfJ6iJi2JhCRi6GTfA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.options/2.0.2",
       "hashPath": "microsoft.extensions.options.2.0.2.nupkg.sha512"
     },
@@ -12667,10 +13243,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-xJ/KhbYXzTeVr58trRLcKExLsyrU2Y6peBIDWcbu5N/NlFdJvx1ZFZYB8fr2dhFG3Sn0AuvozvRzDEixgZZjKA==",
 =======
       "sha512": "sha512-5xynRn7trUFeqcdf9FQ9vCNOQT4WeLZvc0INhTYlcNg0rFvBAA3mHA3Ea7pjHDYoprAmpaDB0l/GAi04mK6TtQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-xJ/KhbYXzTeVr58trRLcKExLsyrU2Y6peBIDWcbu5N/NlFdJvx1ZFZYB8fr2dhFG3Sn0AuvozvRzDEixgZZjKA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.options.configurationextensions/2.0.2",
       "hashPath": "microsoft.extensions.options.configurationextensions.2.0.2.nupkg.sha512"
     },
@@ -12678,10 +13258,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
 =======
       "sha512": "sha512-c7n6OWdZEz0+hL7h0X28NPdWyRp3dYcN4qjKQBAKNpG/6F36qViEoFOpWOL+wa0hvRxJwUGTr24QucJE2qovkA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "hashPath": "microsoft.extensions.platformabstractions.1.1.0.nupkg.sha512"
     },
@@ -12689,10 +13273,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
 =======
       "sha512": "sha512-RyhLFJoMszfbu1rz/gzoqvOrdgsnXxk0B/M4fKjsJdb6/I3t2MdVq4s1dWs8hOXKjcq26ovsLL1UPLowTsaTcQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.primitives/2.0.0",
       "hashPath": "microsoft.extensions.primitives.2.0.0.nupkg.sha512"
     },
@@ -12700,10 +13288,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-1uuxqQ+XMybNuHeyfIsNuoaooyRtViPN4p0yBP74+HcqgB235EnHoS3n6BzcN7P3t0eUV7as2CelrauhWhtZcQ==",
 =======
       "sha512": "sha512-Quj+fmsIBIeUSrWrfmvYXv5NiKmos2fX88jFSoOV8HfJMXO0ceJeCkgm23cSz/KraxyIvE7X9SleBUBwotZfHA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-1uuxqQ+XMybNuHeyfIsNuoaooyRtViPN4p0yBP74+HcqgB235EnHoS3n6BzcN7P3t0eUV7as2CelrauhWhtZcQ==",
+>>>>>>> Update setups
       "path": "microsoft.extensions.webencoders/2.0.2",
       "hashPath": "microsoft.extensions.webencoders.2.0.2.nupkg.sha512"
     },
@@ -12711,10 +13303,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-GlyzF4FWsn3LXC6rrzw6Yg2nMbGLx+7JS9a6Z8n7jhqPa5cMiNEX01tBUO1v3A9p1mk+gQzHWJheAsSpOLp/ew==",
 =======
       "sha512": "sha512-A4MCkz8IWOSEGt51YwlGrQW/sualR4KnGsH+Z1wg5JARYrLzOQ0gb3qou7Yma2p6iSZuJn7h2gJrOSLoBpMAgA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-GlyzF4FWsn3LXC6rrzw6Yg2nMbGLx+7JS9a6Z8n7jhqPa5cMiNEX01tBUO1v3A9p1mk+gQzHWJheAsSpOLp/ew==",
+>>>>>>> Update setups
       "path": "microsoft.identitymodel.clients.activedirectory/3.14.1",
       "hashPath": "microsoft.identitymodel.clients.activedirectory.3.14.1.nupkg.sha512"
     },
@@ -12722,10 +13318,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-j7t22EsDOuo0IXqAbp6ijdB1GuaY8cu3YoPNZpymOhUMTVC+wRTV0IHqxL31HacCnJHU/igsqe70fDKZgZu3oA==",
 =======
       "sha512": "sha512-0df1EwQx7+/gJEbG5TQaoHwTiorSIdNFw2ArgtlJ0ALx5TTP9R1KN6Z7iX4njEFpoG1WmGWn3A/GxWmGOZatDg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-j7t22EsDOuo0IXqAbp6ijdB1GuaY8cu3YoPNZpymOhUMTVC+wRTV0IHqxL31HacCnJHU/igsqe70fDKZgZu3oA==",
+>>>>>>> Update setups
       "path": "microsoft.identitymodel.logging/1.1.4",
       "hashPath": "microsoft.identitymodel.logging.1.1.4.nupkg.sha512"
     },
@@ -12733,10 +13333,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-9aefRN9sL8XZo90Aix88IHHpAvfBl6UOiYpcKHiXbCYE2nB+zA3B8dZdNMOUH4pqXdnpYrHRDQZ2k7A4/CUgTQ==",
 =======
       "sha512": "sha512-R2hHCD87p7nj6zjKGvk6IHk9I6wvSgSL0J58gxS3sCjgjjFcPIM1HV5dPTAVfjx7k/hX+KXmGyuEkuSPzhdwcQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-9aefRN9sL8XZo90Aix88IHHpAvfBl6UOiYpcKHiXbCYE2nB+zA3B8dZdNMOUH4pqXdnpYrHRDQZ2k7A4/CUgTQ==",
+>>>>>>> Update setups
       "path": "microsoft.identitymodel.protocols/2.1.4",
       "hashPath": "microsoft.identitymodel.protocols.2.1.4.nupkg.sha512"
     },
@@ -12744,10 +13348,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-LF8JcG9BqGRwVjhu/IebuZQer6TJGDv2uxNnmg2Zkzh/d+MIC1ShsC1U3U7pVaw03SKyXmCgYm+JG0WM0mcOUw==",
 =======
       "sha512": "sha512-wgkBfjcOJOjXIzYec3VIZW9NzNFL3n8PFhfAXMj91/Efm6gD4pPioup+NgFvvKCLWQTY8gobL1A7QoYQNC4Zpw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-LF8JcG9BqGRwVjhu/IebuZQer6TJGDv2uxNnmg2Zkzh/d+MIC1ShsC1U3U7pVaw03SKyXmCgYm+JG0WM0mcOUw==",
+>>>>>>> Update setups
       "path": "microsoft.identitymodel.protocols.openidconnect/2.1.4",
       "hashPath": "microsoft.identitymodel.protocols.openidconnect.2.1.4.nupkg.sha512"
     },
@@ -12755,10 +13363,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-SsJbZVPvjSlKFDAQmR2wpL6ZD/vCFlIsf0jxRlBJwyzKXZy3Wi/Xo+fE2MzAerLsJgG1UCdtplRwqDyq1euayw==",
 =======
       "sha512": "sha512-l+I18wTVIXsrd/vlsLmcgxhff614MtJEIAMy9KriU/zhCd28yZaVMq8H2aQVFdswKEFefqAY0uZ9y91wAhN9hw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-SsJbZVPvjSlKFDAQmR2wpL6ZD/vCFlIsf0jxRlBJwyzKXZy3Wi/Xo+fE2MzAerLsJgG1UCdtplRwqDyq1euayw==",
+>>>>>>> Update setups
       "path": "microsoft.identitymodel.tokens/5.1.4",
       "hashPath": "microsoft.identitymodel.tokens.5.1.4.nupkg.sha512"
     },
@@ -12766,10 +13378,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-CWxDFEQp3Qseugtue2hCsvAEVz+OLn39NfZllKXWPOEfY01xLaPlSta1oVGqoTAdakK6A+YibNhMv9lsf6y19Q==",
 =======
       "sha512": "sha512-9Zq3d4amBFnfpI9b5eqiBABjlomhVUZ16ReJnn2tYEWoBklyFGQxKmRBolGrzNmM5TsHWEsJ9yRVIzykzAVqow==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-CWxDFEQp3Qseugtue2hCsvAEVz+OLn39NfZllKXWPOEfY01xLaPlSta1oVGqoTAdakK6A+YibNhMv9lsf6y19Q==",
+>>>>>>> Update setups
       "path": "microsoft.net.http.headers/2.0.3",
       "hashPath": "microsoft.net.http.headers.2.0.3.nupkg.sha512"
     },
@@ -12777,10 +13393,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
 =======
       "sha512": "sha512-dhrWI/4ytRMzpxcWNnBmYgd08QHzk2irDEV6b5WyJt1FFy2oCXtDKqq/8GGakWOUH2W82V+A5ivbb9k96ZsuOA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
@@ -12788,10 +13408,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Hj96LBoCwKY2VQKfSCVGGPV1sSumVjuYnrlpBwL4JSTnSK4b6ZxjLtXj8LgmKav8xJ2gps+UN7eI3hHVFKvBFw==",
 =======
       "sha512": "sha512-QWtcuaiHYDz/zDIkzupegr7O5bagWfAuEtbBYDKfAkERxTK4U6moxi6cgSinElJXCJ47WRcnhQVXbs/F229jgg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Hj96LBoCwKY2VQKfSCVGGPV1sSumVjuYnrlpBwL4JSTnSK4b6ZxjLtXj8LgmKav8xJ2gps+UN7eI3hHVFKvBFw==",
+>>>>>>> Update setups
       "path": "microsoft.rest.clientruntime/2.3.8",
       "hashPath": "microsoft.rest.clientruntime.2.3.8.nupkg.sha512"
     },
@@ -12799,10 +13423,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-6u8JIuvrztse4tPOcvNzAJuzGBP0uY+Ijggk8ZYhp0siGEZ1XfZylf1vpNGUicvwcrhhoIgDW73Z1L6QGssr2g==",
 =======
       "sha512": "sha512-CgO+/QV35GIEYaV3x1pqWWxj/F95FBXNU9Npfu7zISs1wQVCeMzmSsKx1QKdCWwJt/+wx151sT0Rff8Bxbe2Eg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-6u8JIuvrztse4tPOcvNzAJuzGBP0uY+Ijggk8ZYhp0siGEZ1XfZylf1vpNGUicvwcrhhoIgDW73Z1L6QGssr2g==",
+>>>>>>> Update setups
       "path": "microsoft.rest.clientruntime.azure/3.3.7",
       "hashPath": "microsoft.rest.clientruntime.azure.3.3.7.nupkg.sha512"
     },
@@ -12810,10 +13438,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-7jUOHGd7nVB/Zlh+sugV0jiNf2KCdfqAIpAje9V5JXGvmP1b3GKB4Vl2groWo+IUFTtFoRwUZpeYfR42w8Gexw==",
 =======
       "sha512": "sha512-rL120ZVM9sdqvoETpYm/pJU59ANgMn/cl54C0P8wRX6ZFK8AhJlFVGlK6FThX+JD1WeF/AXBeFWQ4mpDSWdwMA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-7jUOHGd7nVB/Zlh+sugV0jiNf2KCdfqAIpAje9V5JXGvmP1b3GKB4Vl2groWo+IUFTtFoRwUZpeYfR42w8Gexw==",
+>>>>>>> Update setups
       "path": "microsoft.visualstudio.web.browserlink/2.0.3",
       "hashPath": "microsoft.visualstudio.web.browserlink.2.0.3.nupkg.sha512"
     },
@@ -12821,10 +13453,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
 =======
       "sha512": "sha512-nl/DmmNBamEBqRQzZ+G+emmvNqHLiAY5XmVpe1V9BouctLz3uNjC7vjCCZAH+bRruDEthjhwmO1V36CABlxy4w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
+>>>>>>> Update setups
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
     },
@@ -12832,10 +13468,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-dA36TlNVn/XfrZtmf0fiI/z1nd3Wfp2QVzTdj26pqgP9LFWq0i1hYEUAW50xUjGFYn1+/cP3KGuxT2Yn1OUNBQ==",
 =======
       "sha512": "sha512-LJh1PSoqdugrCv7t+k2B919GGdq4PyrntPVlMCMrcz59nsjOstYmtGWSCiFZ3UNpxv2dlsZdcLzJ847uyOlaEA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-dA36TlNVn/XfrZtmf0fiI/z1nd3Wfp2QVzTdj26pqgP9LFWq0i1hYEUAW50xUjGFYn1+/cP3KGuxT2Yn1OUNBQ==",
+>>>>>>> Update setups
       "path": "microsoft.win32.registry/4.4.0",
       "hashPath": "microsoft.win32.registry.4.4.0.nupkg.sha512"
     },
@@ -12843,10 +13483,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
 =======
       "sha512": "sha512-MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+>>>>>>> Update setups
       "path": "newtonsoft.json/10.0.1",
       "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
     },
@@ -12854,10 +13498,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
 =======
       "sha512": "sha512-W5Ke5xei9yS0ljQZuT75VgSp5M43eCPm5hHAelvKyGGU4dV7hYCmtwdsxoADb/exO6pYHeu/Iki43TdYPzfESQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
+>>>>>>> Update setups
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
@@ -12865,10 +13513,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
 =======
       "sha512": "sha512-m9y+SLyqYEDcc3lnqAHO2VOsdIeDuO02IuBXeo7CIDve2J3ahXQRieZt2DuoXgCnWW83PgN6+8CQsaORlwAMXw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+>>>>>>> Update setups
       "path": "remotion.linq/2.1.1",
       "hashPath": "remotion.linq.2.1.1.nupkg.sha512"
     },
@@ -12876,10 +13528,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-HdSSp5MnJSsg08KMfZThpuLPJpPwE5hBXvHwoKWosyHHfe8Mh5WKT0ylEOf6yNzX6Ngjxe4Whkafh5q7Ymac4Q==",
 =======
       "sha512": "sha512-+L7i7NIR+q5RO6YAaKeAVFeSz900DmWHLZoJurjq2NWqVQLTsg+c/IhkUgDu00gGRw0MuOY4kbFLJAOfovYfJA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-HdSSp5MnJSsg08KMfZThpuLPJpPwE5hBXvHwoKWosyHHfe8Mh5WKT0ylEOf6yNzX6Ngjxe4Whkafh5q7Ymac4Q==",
+>>>>>>> Update setups
       "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -12887,10 +13543,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-+yH1a49wJMy8Zt4yx5RhJrxO/DBDByAiCzNwiETI+1S4mPdCu0OY4djdciC7Vssk0l22wQaDLrXxXkp+3+7bVA==",
 =======
       "sha512": "sha512-JEhaF8Szlc259ms1EFC5UGcjrmAFQq2r04UdPp2NulAbQCRYnZxUKRiMPSlTkGmrFG+/l1d0QBdXf3HgAxL6MA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-+yH1a49wJMy8Zt4yx5RhJrxO/DBDByAiCzNwiETI+1S4mPdCu0OY4djdciC7Vssk0l22wQaDLrXxXkp+3+7bVA==",
+>>>>>>> Update setups
       "path": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -12898,10 +13558,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
 =======
       "sha512": "sha512-btss8OvKfIjnL57mpV2ZyHH0Gp/v1zhndlF1fZmW9wLb1qzMK888fhENYcv8ofYAMMbSFDaqR0TT8LoVSu6Y0w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
+>>>>>>> Update setups
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -12909,10 +13573,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
 =======
       "sha512": "sha512-TOUrh4Aw4Y5hlL3NAmSa7voxiPDsT996Fmz14l+RltwqaE9C5pv/SWOjzgp84zPsC5dtXy8zKc1COJP2s5nCyw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
+>>>>>>> Update setups
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
     },
@@ -12927,10 +13595,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
 =======
       "sha512": "sha512-F/ZpHjUp8usLopqO7cGCpHuAB7Si6G3mHVUEJ0P0hY9FzjEj0OZUf7HbmAlxglm80D6A2//SnJqmDq3ZTlmMtg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
+>>>>>>> Update setups
       "path": "runtime.native.system.io.compression/4.3.0",
       "hashPath": "runtime.native.system.io.compression.4.3.0.nupkg.sha512"
     },
@@ -12938,10 +13610,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
 =======
       "sha512": "sha512-XRBzu6fhJMedPlfd/K/GIiNuH/fA0sFVotNaJ+42h2CW2x0OtE70JOCsywVio7NPXmoX74qlbr1ltAqiV1xWNg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
+>>>>>>> Update setups
       "path": "runtime.native.system.net.http/4.3.0",
       "hashPath": "runtime.native.system.net.http.4.3.0.nupkg.sha512"
     },
@@ -12949,10 +13625,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
 =======
       "sha512": "sha512-F7I8/J9/DzuXM+ZY5ElMOL88JLmpIgrn/lFYy/mM9i11CFvuyCaiYSSGnoq57Euqxj7ceS/oUATEzNv+rlNPWQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
+>>>>>>> Update setups
       "path": "runtime.native.system.net.security/4.3.0",
       "hashPath": "runtime.native.system.net.security.4.3.0.nupkg.sha512"
     },
@@ -12960,10 +13640,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
 =======
       "sha512": "sha512-EkksH7WTKsFCVPWVrj/h1VVyOcOfY4CgWvaSViPtgy2/h2+U36+8cBXdZVV/ELgmss/DelfgKXS3NO2tWQE52A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
+>>>>>>> Update setups
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "hashPath": "runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
     },
@@ -12971,10 +13655,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-NS1U+700m4KFRHR5o4vo9DSlTmlCKu/u7dtE5sUHVIPB+xpXxYQvgBgA6wEIeCz6Yfn0Z52/72WYsToCEPJnrw==",
 =======
       "sha512": "sha512-925s8DLiJrvYyLB+b57iafZzXtvHU9P3HXJJ/L8Q0IxbBTygjADwf1nk4QcdjzlsSLbFZLIoPhFTFdmOZ/iVxw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-NS1U+700m4KFRHR5o4vo9DSlTmlCKu/u7dtE5sUHVIPB+xpXxYQvgBgA6wEIeCz6Yfn0Z52/72WYsToCEPJnrw==",
+>>>>>>> Update setups
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -12982,10 +13670,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-b3pthNgxxFcD+Pc0WSEoC0+md3MyhRS6aCEeenvNE3Fdw1HyJ18ZhRFVJJzIeR/O/jpxPboB805Ho0T3Ul7w8A==",
 =======
       "sha512": "sha512-IuPQbTNGas3mjFTRLYWIel6s45qGffQixRMx1ROisxMj5W0h8WID5S518Gw8RAXKPzj52Y+UFFaJMOjHG0YCdg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-b3pthNgxxFcD+Pc0WSEoC0+md3MyhRS6aCEeenvNE3Fdw1HyJ18ZhRFVJJzIeR/O/jpxPboB805Ho0T3Ul7w8A==",
+>>>>>>> Update setups
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -12993,10 +13685,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KeLz4HClKf+nFS7p/6Fi/CqyLXh81FpiGzcmuS8DGi9lUqSnZ6Es23/gv2O+1XVGfrbNmviF7CckBpavkBoIFQ==",
 =======
       "sha512": "sha512-7cnaQImZXFKWR0pYC+lDst3vrzPteafxqaph26NE6gZxxWSQ6hwA1UmQa/fVyH2RRhtyibDk0dcKtDGOhKQ/og==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KeLz4HClKf+nFS7p/6Fi/CqyLXh81FpiGzcmuS8DGi9lUqSnZ6Es23/gv2O+1XVGfrbNmviF7CckBpavkBoIFQ==",
+>>>>>>> Update setups
       "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13004,10 +13700,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
 =======
       "sha512": "sha512-L5BW7NeqdGhDFvFwk2MT3cUeJCDgb/PogMbP071mEM6HgfYG4KswYGgengg74Mprvkvf+lX4TpXpgQ8PfNzAmA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
+>>>>>>> Update setups
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "hashPath": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
     },
@@ -13015,10 +13715,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-X7IdhILzr4ROXd8mI1BUCQMSHSQwelUlBjF1JyTKCjXaOGn2fB4EKBxQbCK2VjO3WaWIdlXZL3W6TiIVnrhX4g==",
 =======
       "sha512": "sha512-0dz8z7j2Ll69he4KLG9JA2vG06j8Rz8Cx8gQu1kzmMbeY+7jmvL7JyvDNLYeJ7lCKV38qqG3jKoPXMuXe98gKg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-X7IdhILzr4ROXd8mI1BUCQMSHSQwelUlBjF1JyTKCjXaOGn2fB4EKBxQbCK2VjO3WaWIdlXZL3W6TiIVnrhX4g==",
+>>>>>>> Update setups
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13026,10 +13730,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
 =======
       "sha512": "sha512-RqvVEceY+Qir/TFU+lgRmNgFHTflALzr21Jw8mzOVZS8RLcHXmzXY1e7kyixIAU9E/UUPII5YoaBJU+gk8dlJA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
+>>>>>>> Update setups
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13037,10 +13745,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
 =======
       "sha512": "sha512-MJXxxfjccI4R7wVrfltYEoP/CXCxlUwyfYNMqZ1RMIaOCH3J84kjwEXlPah6t1XjIrDkITT2IANEASj2z1fS9Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
+>>>>>>> Update setups
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13048,10 +13760,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-I8bKw2I8k58Wx7fMKQJn2R8lamboCAiHfHeV/pS65ScKWMMI0+wJkLYlEKvgW1D/XvSl/221clBoR2q9QNNM7A==",
 =======
       "sha512": "sha512-xN66CKE9bhJ4PcZd3U/tjBHE3yV0bC4fS2DTTAe0lYlREWRXrUQdd/kzYTYZcjHaWz/empIeYO0ibdRlzP1SQA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-I8bKw2I8k58Wx7fMKQJn2R8lamboCAiHfHeV/pS65ScKWMMI0+wJkLYlEKvgW1D/XvSl/221clBoR2q9QNNM7A==",
+>>>>>>> Update setups
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13059,10 +13775,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
 =======
       "sha512": "sha512-3BLj3mg1r+LvqUNdlGoYqf82m8JRahuT20hVhFTN17wy6aj+iR8ZdGOo51rHoQZVkSFG7KjKEJGTj2jEbTURQg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
+>>>>>>> Update setups
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13091,10 +13811,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Kw+n4CUhQ8S4YAPmpRUldO8S7c4LU7HHukJF0v5Sfggf8Ia9YVdIh0dYkMvKvS+DTX+OBORSMqPM0CGfAzFtVA==",
 =======
       "sha512": "sha512-ndZplZhKILwXTlM3v4EYQlJqTJ4OFoOoGDIk9w1a6Qv4x1lnUyM0CPnHGBzh3jnmHpUYeVCqTDwFQ9zyHZDOGQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Kw+n4CUhQ8S4YAPmpRUldO8S7c4LU7HHukJF0v5Sfggf8Ia9YVdIh0dYkMvKvS+DTX+OBORSMqPM0CGfAzFtVA==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.bundle_green/1.1.7",
       "hashPath": "sqlitepclraw.bundle_green.1.1.7.nupkg.sha512"
     },
@@ -13102,10 +13826,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-u9k9ZFkyTU6CVyXWpRuuXOvKi/cy/xt1oGKVSW8aUKcTL4RdH34yFNtVykEeiR68ojIEvmoZfL51h/xx2IQk5g==",
 =======
       "sha512": "sha512-OwSVeqJVN2M0eU7h6Xw4S8BvzNde9T1o8vP9a7OBGBC4CXBa1ePBjo7tq6gkF6yIdcDxkqLbOraHBxdLrvMq2g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-u9k9ZFkyTU6CVyXWpRuuXOvKi/cy/xt1oGKVSW8aUKcTL4RdH34yFNtVykEeiR68ojIEvmoZfL51h/xx2IQk5g==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.core/1.1.7",
       "hashPath": "sqlitepclraw.core.1.1.7.nupkg.sha512"
     },
@@ -13113,10 +13841,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KRqMd1qLwJ4pzPybj8q95s+wV6jby5F0O/rp0vw3wa2Z2wHxRm0VqxS2Sejlr7Ctz+LxSr8DpNg1l1u6n/PAPA==",
 =======
       "sha512": "sha512-LWxJ0JhP6+FeiKadmlve/5zfdgACoUCqjbYGD2TDGpBUrHC0v+RdjZhXi48sTnkVW5fn+TtA37WV02LSMFJH3w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KRqMd1qLwJ4pzPybj8q95s+wV6jby5F0O/rp0vw3wa2Z2wHxRm0VqxS2Sejlr7Ctz+LxSr8DpNg1l1u6n/PAPA==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.lib.e_sqlite3.linux/1.1.7",
       "hashPath": "sqlitepclraw.lib.e_sqlite3.linux.1.1.7.nupkg.sha512"
     },
@@ -13124,10 +13856,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-hdZx1DKHbDi4li6abmJ+A29mxY8D6BcM0s8VMT8p4MWEyrj54CZFUm402jTV6OgZCsFGkbRFnuFdBXf4vSDO7g==",
 =======
       "sha512": "sha512-LnEgt++nwP2KnoFYIKdAXPjS9W8ZGU1DfL/PHyAqLBQQlfG5V0H/HHiVJOh5B6XQ4Jf0AdJQphtkVG4u2V3mYQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-hdZx1DKHbDi4li6abmJ+A29mxY8D6BcM0s8VMT8p4MWEyrj54CZFUm402jTV6OgZCsFGkbRFnuFdBXf4vSDO7g==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.lib.e_sqlite3.osx/1.1.7",
       "hashPath": "sqlitepclraw.lib.e_sqlite3.osx.1.1.7.nupkg.sha512"
     },
@@ -13135,10 +13871,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-roIdTH4a4iFa08HOwTWnzj2QYBIpSZRYfLSvHjtbH67I4DSWregrd4jkSnoOuwC5GHG08FNahBfEx3HAsVqW+g==",
 =======
       "sha512": "sha512-M1WskZ/7pOTLCwdPgvrK4YGx+pJoT5cISUs8G8O68Wr+yLUBnz4BhnS+suhUiD1W/UAkFev/MnbeCiQj87VaTQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-roIdTH4a4iFa08HOwTWnzj2QYBIpSZRYfLSvHjtbH67I4DSWregrd4jkSnoOuwC5GHG08FNahBfEx3HAsVqW+g==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.lib.e_sqlite3.v110_xp/1.1.7",
       "hashPath": "sqlitepclraw.lib.e_sqlite3.v110_xp.1.1.7.nupkg.sha512"
     },
@@ -13146,10 +13886,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Zdug2wETm6847337EtD8MoCAtOdwM6prEXL/UsJ97Zxvoeyk/gUpdtuFNBxgJzceuty0jymjxm5yur5QajdApg==",
 =======
       "sha512": "sha512-J81nAWSiEJK8agJR/r9uRy+0SGmsFq3GmSMu4QS0Jzr+OQDAjLVZ/qNhUF1Q15p/h/NR5/o0HyzVHPofcxEyvA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Zdug2wETm6847337EtD8MoCAtOdwM6prEXL/UsJ97Zxvoeyk/gUpdtuFNBxgJzceuty0jymjxm5yur5QajdApg==",
+>>>>>>> Update setups
       "path": "sqlitepclraw.provider.e_sqlite3.netstandard11/1.1.7",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.netstandard11.1.1.7.nupkg.sha512"
     },
@@ -13157,10 +13901,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-qrfSB1BnmM17V20A4yvvNA0HNiDgnBd/CcjaeMKMA4qtup1uuBUMyhl20oj31fRVo71E/fXTbmQCuM9ytBJs6w==",
 =======
       "sha512": "sha512-xUEJG7H/l8cMd0C1Q4ImP6RRfivfwRZrvlscxPH1s9ffRLSXyhMsaGriq7x3ulGejqneN/zzwYf4guAsv7DA5g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-qrfSB1BnmM17V20A4yvvNA0HNiDgnBd/CcjaeMKMA4qtup1uuBUMyhl20oj31fRVo71E/fXTbmQCuM9ytBJs6w==",
+>>>>>>> Update setups
       "path": "stackexchange.redis.strongname/1.2.4",
       "hashPath": "stackexchange.redis.strongname.1.2.4.nupkg.sha512"
     },
@@ -13168,10 +13916,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
 =======
       "sha512": "sha512-23AlGUPzRnngqfETnuojeRWI8JqESEBKL+G4mPLeqDjo+0/FF8milw7Uo/jKm/aArFet4p3MA9NEmWbtP1JhRQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
+>>>>>>> Update setups
       "path": "system.appcontext/4.3.0",
       "hashPath": "system.appcontext.4.3.0.nupkg.sha512"
     },
@@ -13179,10 +13931,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw==",
 =======
       "sha512": "sha512-Ii2bedd4HVzddupdU35n3ygohUPlNn7MDimBOYcwWNce2NizQ1fCSaQJY1Tzv80aMqOGpVcU4wZr/Xe50xcTwg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw==",
+>>>>>>> Update setups
       "path": "system.buffers/4.4.0",
       "hashPath": "system.buffers.4.4.0.nupkg.sha512"
     },
@@ -13190,10 +13946,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
 =======
       "sha512": "sha512-PooBMgMy4+ZzkopBwKG1DJJp5964cHTc0noE1yI/5Xntg0ByZKzR2ZG4bLAXWRPwYdNLY1gVbqrPPsXiuPf7Mw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+>>>>>>> Update setups
       "path": "system.collections/4.3.0",
       "hashPath": "system.collections.4.3.0.nupkg.sha512"
     },
@@ -13201,10 +13961,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ztl69Xp0Y/UXCL+3v3tEU+lIy+bvjKNUmopn1wep/a291pVPK7dxBd6T7WnlQqRog+d1a/hSsgRsmFnIBKTPLQ==",
 =======
       "sha512": "sha512-TXZLDWnEBIXL5/S9lbr59r8+o4Yia8BMOrObqm+ltcFtGv30bUZhwWBdOi0bugzCqc2yILy3d1gTR+jzb4oxcw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ztl69Xp0Y/UXCL+3v3tEU+lIy+bvjKNUmopn1wep/a291pVPK7dxBd6T7WnlQqRog+d1a/hSsgRsmFnIBKTPLQ==",
+>>>>>>> Update setups
       "path": "system.collections.concurrent/4.3.0",
       "hashPath": "system.collections.concurrent.4.3.0.nupkg.sha512"
     },
@@ -13212,10 +13976,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
 =======
       "sha512": "sha512-1aNA04B7wZWbZ8FgVg+Rg9vkzfQkmTwE1N6Lj3h14Gl8VupDS8j/mrfvv/FlQJL0ts8sMMKRgwnKntfQ1gQ3kQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
+>>>>>>> Update setups
       "path": "system.collections.immutable/1.4.0",
       "hashPath": "system.collections.immutable.1.4.0.nupkg.sha512"
     },
@@ -13223,10 +13991,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
 =======
       "sha512": "sha512-U6H54DaHVjlhQvmYgG0hqyLLFPRtWZrrsQhRIsC20z6Ce4YeoOgcizJE0gGihf1chqimSuDlN3sZoswZQ3wOKA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+>>>>>>> Update setups
       "path": "system.collections.nongeneric/4.3.0",
       "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
     },
@@ -13234,10 +14006,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
 =======
       "sha512": "sha512-ZUKrpCGAodzkbitNQGlgraB6odIkuWt7kptVc/NTFABDc5B7rI8IyNK/aK7o+e7RJYNut3D5UajlkysK2OXeaA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+>>>>>>> Update setups
       "path": "system.collections.specialized/4.3.0",
       "hashPath": "system.collections.specialized.4.3.0.nupkg.sha512"
     },
@@ -13245,10 +14021,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
 =======
       "sha512": "sha512-cmY1dxs3yfLLhRruRnwAOAKByTk90F7AwLfmQVmJMbrAhUAzoa5BbHQxcSRw4OeZ2jq+bPVBs6PjBKh3zxztKA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
+>>>>>>> Update setups
       "path": "system.componentmodel/4.3.0",
       "hashPath": "system.componentmodel.4.3.0.nupkg.sha512"
     },
@@ -13256,10 +14036,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-29K3DQ+IGU7LBaMjTo7SI7T7X/tsMtLvz1p56LJ556Iu0Dw3pKZw5g8yCYCWMRxrOF0Hr0FU0FwW0o42y2sb3A==",
 =======
       "sha512": "sha512-vd03owHLpgcjxuZQJt/rZDsphb6uofhbxeFdXAHI7bytuHBKOmARGV0jE6fKH32vmQlPkRnvxQRbPS2elLAmSg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-29K3DQ+IGU7LBaMjTo7SI7T7X/tsMtLvz1p56LJ556Iu0Dw3pKZw5g8yCYCWMRxrOF0Hr0FU0FwW0o42y2sb3A==",
+>>>>>>> Update setups
       "path": "system.componentmodel.annotations/4.4.0",
       "hashPath": "system.componentmodel.annotations.4.4.0.nupkg.sha512"
     },
@@ -13267,10 +14051,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
 =======
       "sha512": "sha512-UEAFyIu/GM0FTuveU30CgnSIVyzvi26kCfeGrmZeDMFxMjz/cd/F0QhuSxtfv+eW1w2VRsdP4HFxKGiEFExsSg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+>>>>>>> Update setups
       "path": "system.componentmodel.primitives/4.3.0",
       "hashPath": "system.componentmodel.primitives.4.3.0.nupkg.sha512"
     },
@@ -13278,10 +14066,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
 =======
       "sha512": "sha512-P0PPzrAevESQEnxhSVrfR/bb/5wUw7Dwea+sQpAh714dW5YIZQ5Q9Jtsjw+egpcEPkNj1xzFJiAaaK9uq5GdsA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+>>>>>>> Update setups
       "path": "system.componentmodel.typeconverter/4.3.0",
       "hashPath": "system.componentmodel.typeconverter.4.3.0.nupkg.sha512"
     },
@@ -13289,10 +14081,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-DHDrIxiqk1h03m6khKWV2X8p/uvN79rgSqpilL6uzpmSfxfU5ng8VcPtW4qsDsQDHiTv6IPV9TmD5M/vElPNLg==",
 =======
       "sha512": "sha512-4FWVlGksHJwhCIt/2B1iW8crIEpKIvf6SQ0vF3PPHIauCl0AfvG9Y+XQ3SZDbYPXPBfIHVoPq4yciD58fQvzWA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-DHDrIxiqk1h03m6khKWV2X8p/uvN79rgSqpilL6uzpmSfxfU5ng8VcPtW4qsDsQDHiTv6IPV9TmD5M/vElPNLg==",
+>>>>>>> Update setups
       "path": "system.console/4.3.0",
       "hashPath": "system.console.4.3.0.nupkg.sha512"
     },
@@ -13300,10 +14096,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-D1hEOS1oPLJ6WcGCzpTWe8SauWVxnDoDTUWhv5XCNdRm/QeSUk4BQ3ZDe7BH+zNVHDBkPYjVzpVjnCl43eOSGg==",
 =======
       "sha512": "sha512-NvG/0mC80diO0zXYt89gFC869Gn6aIn5Tx0HavxGa3IPbH2Ktflbw2HJvl24zmpAL0UF/bkGsI+jv0/aHX8dJw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-D1hEOS1oPLJ6WcGCzpTWe8SauWVxnDoDTUWhv5XCNdRm/QeSUk4BQ3ZDe7BH+zNVHDBkPYjVzpVjnCl43eOSGg==",
+>>>>>>> Update setups
       "path": "system.data.sqlclient/4.4.3",
       "hashPath": "system.data.sqlclient.4.4.3.nupkg.sha512"
     },
@@ -13311,10 +14111,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
 =======
       "sha512": "sha512-WVFIqVpWgneD7elytdAq4O62lQvcpi/auin53dmb/XUmtDtpaQUoSbuiRnEXRgt5knuqNZl9mg+lw6USfd6upQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
+>>>>>>> Update setups
       "path": "system.diagnostics.contracts/4.3.0",
       "hashPath": "system.diagnostics.contracts.4.3.0.nupkg.sha512"
     },
@@ -13322,10 +14126,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
 =======
       "sha512": "sha512-nUSQZTjuQQBrJvx8/2chLSDu+BJNBJ9nWo3yTpmcK6WhPxSRl3VH09WLiTr+5MAPVxpDYikalXiAkCVeQE9wbg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
+>>>>>>> Update setups
       "path": "system.diagnostics.debug/4.3.0",
       "hashPath": "system.diagnostics.debug.4.3.0.nupkg.sha512"
     },
@@ -13333,10 +14141,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-U/KcC19fyLsPN1GLmeU2zQq15MMVcPwMOYPADVo1+WIoJpvMHxrzvl+BLLZwTEZSneGwaPFZ0aWr0nJ7B7LSdA==",
 =======
       "sha512": "sha512-DfmSEfJLAfs+iVaQhxUJEh57N2ubV+nd00Xsob2tnC+XwasndKazMjhDYdYMW7UZ6tmyBTxuR5uEx0ov4AaVsQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-U/KcC19fyLsPN1GLmeU2zQq15MMVcPwMOYPADVo1+WIoJpvMHxrzvl+BLLZwTEZSneGwaPFZ0aWr0nJ7B7LSdA==",
+>>>>>>> Update setups
       "path": "system.diagnostics.diagnosticsource/4.4.1",
       "hashPath": "system.diagnostics.diagnosticsource.4.4.1.nupkg.sha512"
     },
@@ -13351,10 +14163,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-BiHg0vgtd35/DM9jvtaC1eKRpWZxr0gcQd643ABG7GnvSlf5pOkY2uyd42mMOJoOmKvnpNj0F4tuoS1pacTwYw==",
 =======
       "sha512": "sha512-0jwdqNb1XYoNwyNIJSrYrbLnnq/5nbvnVzA7f7/WwmqkrwBHoaJ3sBJjb/RnNseCG2zLGgU9d90CTPv6ilfpHw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-BiHg0vgtd35/DM9jvtaC1eKRpWZxr0gcQd643ABG7GnvSlf5pOkY2uyd42mMOJoOmKvnpNj0F4tuoS1pacTwYw==",
+>>>>>>> Update setups
       "path": "system.diagnostics.stacktrace/4.3.0",
       "hashPath": "system.diagnostics.stacktrace.4.3.0.nupkg.sha512"
     },
@@ -13362,10 +14178,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-UUvkJfSYJMM6x527dJg2VyWPSRqIVB0Z7dbjHst1zmwTXz5CcXSYJFWRpuigfbO1Lf7yfZiIaEUesfnl/g5EyA==",
 =======
       "sha512": "sha512-tqM7Mc9YCPpz9SyWO8cmVn0aVDt8H5xIblcLnK2myIDgHY20UGtivkJa2NDSAl2hMIYrmZWngYITkPgxwITgAw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-UUvkJfSYJMM6x527dJg2VyWPSRqIVB0Z7dbjHst1zmwTXz5CcXSYJFWRpuigfbO1Lf7yfZiIaEUesfnl/g5EyA==",
+>>>>>>> Update setups
       "path": "system.diagnostics.tools/4.3.0",
       "hashPath": "system.diagnostics.tools.4.3.0.nupkg.sha512"
     },
@@ -13373,10 +14193,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-rswfv0f/Cqkh78rA5S8eN8Neocz234+emGCtTF3lxPY96F+mmmUen6tbn0glN6PMvlKQb9bPAY5e9u7fgPTkKw==",
 =======
       "sha512": "sha512-8ZFFf37u+DhoCSyBaUmclAVODvWyBMi6aFh+YCf5b6Omlk11ihHUFttO6AMncKU67J1uJbErODAJmisHrN7TcA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-rswfv0f/Cqkh78rA5S8eN8Neocz234+emGCtTF3lxPY96F+mmmUen6tbn0glN6PMvlKQb9bPAY5e9u7fgPTkKw==",
+>>>>>>> Update setups
       "path": "system.diagnostics.tracing/4.3.0",
       "hashPath": "system.diagnostics.tracing.4.3.0.nupkg.sha512"
     },
@@ -13384,10 +14208,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
 =======
       "sha512": "sha512-NQcmlYxgu7iWSz9JmC/o3P+R4HBLVcoTy7BDFL+kttNsguXlbKcggPfzZzfRtfly8FPsx8nDLhEtK2we1PGCRw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
+>>>>>>> Update setups
       "path": "system.dynamic.runtime/4.3.0",
       "hashPath": "system.dynamic.runtime.4.3.0.nupkg.sha512"
     },
@@ -13395,10 +14223,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
 =======
       "sha512": "sha512-L/J4nQWnRplprFllU78ag5yDy/Y2LweM6kL1TWtmHfNCciVw97aAL2/0SsPGKuCLgyd2580W4JceW55wXj6OYA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
+>>>>>>> Update setups
       "path": "system.globalization/4.3.0",
       "hashPath": "system.globalization.4.3.0.nupkg.sha512"
     },
@@ -13406,10 +14238,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-GUlBtdOWT4LTV3I+9/PJW+56AnnChTaOqqTLFtdmype/L500M2LIyXgmtd9X2P2VOkmJd5c67H5SaC2QcL1bFA==",
 =======
       "sha512": "sha512-GyamDWKH+Jky6NWliHAhD4+QVbGRu/i34nqa3yNsOT2BsiKsJi26g0FY4JW3WzmdxRaScpSIOycjQSsjcr7hNg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-GUlBtdOWT4LTV3I+9/PJW+56AnnChTaOqqTLFtdmype/L500M2LIyXgmtd9X2P2VOkmJd5c67H5SaC2QcL1bFA==",
+>>>>>>> Update setups
       "path": "system.globalization.calendars/4.3.0",
       "hashPath": "system.globalization.calendars.4.3.0.nupkg.sha512"
     },
@@ -13417,10 +14253,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
 =======
       "sha512": "sha512-+4seZT5AOH0Ev4LGJMVsDLhr1EBLeYjq+4J+o4FCnd5JO7hjMXwJiXrvsZFZfmzXAb7pyfrv0DybRLaqqJfJbA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
+>>>>>>> Update setups
       "path": "system.globalization.extensions/4.3.0",
       "hashPath": "system.globalization.extensions.4.3.0.nupkg.sha512"
     },
@@ -13428,10 +14268,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-hLUU1N99aL9uyxiTraBnCKlpUKsbP/+5ygD7cswspH9/+M7fAAL0hRzt2aA4w7VEQlSSiu8j+xWFk3NRcqhfQQ==",
 =======
       "sha512": "sha512-Al7aOPZ3r+6Qye1VZFoQ0fb2CDWd2HmdbEM8Xfj8bt9s1N0ySasoPdjyeUI6rOZz7i76/tdCUBxB0O+jK0vMyQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-hLUU1N99aL9uyxiTraBnCKlpUKsbP/+5ygD7cswspH9/+M7fAAL0hRzt2aA4w7VEQlSSiu8j+xWFk3NRcqhfQQ==",
+>>>>>>> Update setups
       "path": "system.identitymodel.tokens.jwt/5.1.4",
       "hashPath": "system.identitymodel.tokens.jwt.5.1.4.nupkg.sha512"
     },
@@ -13439,10 +14283,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
 =======
       "sha512": "sha512-x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
+>>>>>>> Update setups
       "path": "system.interactive.async/3.1.1",
       "hashPath": "system.interactive.async.3.1.1.nupkg.sha512"
     },
@@ -13450,10 +14298,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
 =======
       "sha512": "sha512-eARM5YHRceLx56dg+7GFeu9WunFUzpzoPRDfnoObZDRe/efRNvZKYNNTDYmrNCMo7WA/lolMk9Z7ukSeFAGB7g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+>>>>>>> Update setups
       "path": "system.io/4.3.0",
       "hashPath": "system.io.4.3.0.nupkg.sha512"
     },
@@ -13461,10 +14313,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-YHndyoiV90iu4iKG115ibkhrG+S3jBm8Ap9OwoUAzO5oPDAWcr0SFwQFm0HjM8WkEZWo0zvLTyLmbvTkW1bXgg==",
 =======
       "sha512": "sha512-ArVFAEtcDyfJ7aT3LA28tIIAbaVjzpRb7YTecrukSOqy0CzDYCfSnk5JczwOCSKt4F6U7vMnx7jwb3aNPldf8A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-YHndyoiV90iu4iKG115ibkhrG+S3jBm8Ap9OwoUAzO5oPDAWcr0SFwQFm0HjM8WkEZWo0zvLTyLmbvTkW1bXgg==",
+>>>>>>> Update setups
       "path": "system.io.compression/4.3.0",
       "hashPath": "system.io.compression.4.3.0.nupkg.sha512"
     },
@@ -13472,10 +14328,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-3wEMARTnuio+ulnvi+hkRNROYwa1kylvYahhcLk4HSoVdl+xxTFVeVlYOfLwrDPImGls0mDqbMhrza8qnWPTdA==",
 =======
       "sha512": "sha512-n9S0YGu1RjXLz0V/aginNObqqWycDQ5f+FvI2Y2aBYmGjwyUKczegVgNiGmBTo4rdGLMhHaJyEqAR7DEQqBJHQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-3wEMARTnuio+ulnvi+hkRNROYwa1kylvYahhcLk4HSoVdl+xxTFVeVlYOfLwrDPImGls0mDqbMhrza8qnWPTdA==",
+>>>>>>> Update setups
       "path": "system.io.filesystem/4.3.0",
       "hashPath": "system.io.filesystem.4.3.0.nupkg.sha512"
     },
@@ -13483,10 +14343,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-6QOb2XFLch7bEc4lIcJH49nJN2HV+OC3fHDgsLVsBVBk3Y4hFAnOBGzJ2lUu7CyDDFo9IBWkSsnbkT6IBwwiMw==",
 =======
       "sha512": "sha512-oVcVP6NOIC03MwMEzChw0HvJTFv8d7TMxY31ssQbcYXe3B09J4zvC9mchXWJg8jGFB6Bj2l4eWDwnrkhGkDCQg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-6QOb2XFLch7bEc4lIcJH49nJN2HV+OC3fHDgsLVsBVBk3Y4hFAnOBGzJ2lUu7CyDDFo9IBWkSsnbkT6IBwwiMw==",
+>>>>>>> Update setups
       "path": "system.io.filesystem.primitives/4.3.0",
       "hashPath": "system.io.filesystem.primitives.4.3.0.nupkg.sha512"
     },
@@ -13494,10 +14358,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
 =======
       "sha512": "sha512-8/S5zvOi1379FKn0FxWpT9R2EpEQ3qsQPzWN25YC2fNcVrsuLHIS7cZp5nboGTAX+LTmfFjbs99/LG7/F0vPsw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
+>>>>>>> Update setups
       "path": "system.linq/4.3.0",
       "hashPath": "system.linq.4.3.0.nupkg.sha512"
     },
@@ -13505,10 +14373,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-PGKkrd2khG4CnlyJwxwwaWWiSiWFNBGlgXvJpeO0xCXrZ89ODrQ6tjEWS/kOqZ8GwEOUATtKtzp1eRgmYNfclg==",
 =======
       "sha512": "sha512-AooiZPTABbLK8o0vbfDzlL+xFb/Qqsws9DFD3BCkgd0kGX0EEOswPWlwbC4ygUoL8v0ajdNTUhhToB0HhYvomw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-PGKkrd2khG4CnlyJwxwwaWWiSiWFNBGlgXvJpeO0xCXrZ89ODrQ6tjEWS/kOqZ8GwEOUATtKtzp1eRgmYNfclg==",
+>>>>>>> Update setups
       "path": "system.linq.expressions/4.3.0",
       "hashPath": "system.linq.expressions.4.3.0.nupkg.sha512"
     },
@@ -13523,10 +14395,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
 =======
       "sha512": "sha512-fbWGvl0OrqEoat6nKgIrylsGFFJE7uaQmXvMWifXK3AYH5Sz5eYK4D4HnNum1XHB5ZEwoOFjLJH5KkzFVsrIfw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
+>>>>>>> Update setups
       "path": "system.net.http/4.3.0",
       "hashPath": "system.net.http.4.3.0.nupkg.sha512"
     },
@@ -13534,10 +14410,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
 =======
       "sha512": "sha512-Oo+6i4zP6ULyHNY5n3Cc5ZbB6UaU3Or4gtE1cuBpzO4zcC83k8J6/5TSv8yVtJDyEmQXuiYBCONN6id/CjN8Pg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
+>>>>>>> Update setups
       "path": "system.net.nameresolution/4.3.0",
       "hashPath": "system.net.nameresolution.4.3.0.nupkg.sha512"
     },
@@ -13545,10 +14425,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-qOu+hDwFwoZPbzPvwut2qATe3ygjeQBDQj91xlsaqGFQUI5i4ZnZb8yyQuLGpDGivEPIt8EJkd1BVzVoP31FXA==",
 =======
       "sha512": "sha512-jKaM5qjwV0OBbTLOFjqXwKRFyRc7ByVkmF8Gdc+p/722E3k1exY/sI0AlYsTTSqbZaFnYS4y8ZR/HX7NQUZxHA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-qOu+hDwFwoZPbzPvwut2qATe3ygjeQBDQj91xlsaqGFQUI5i4ZnZb8yyQuLGpDGivEPIt8EJkd1BVzVoP31FXA==",
+>>>>>>> Update setups
       "path": "system.net.primitives/4.3.0",
       "hashPath": "system.net.primitives.4.3.0.nupkg.sha512"
     },
@@ -13563,10 +14447,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-m6icV6TqQOAdgt5N/9I5KNpjom/5NFtkmGseEH+AK/hny8XrytLH3+b5M8zL/Ycg3fhIocFpUMyl/wpFnVRvdw==",
 =======
       "sha512": "sha512-vZrcUIu/Cq+EhfChexXt68djw+pUFSOxRu4jLmLtZ9/iFFEC3+wJ0MyJD63mCBAQjOBbutUY740kyBaJ/gF2PQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-m6icV6TqQOAdgt5N/9I5KNpjom/5NFtkmGseEH+AK/hny8XrytLH3+b5M8zL/Ycg3fhIocFpUMyl/wpFnVRvdw==",
+>>>>>>> Update setups
       "path": "system.net.sockets/4.3.0",
       "hashPath": "system.net.sockets.4.3.0.nupkg.sha512"
     },
@@ -13574,10 +14462,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
 =======
       "sha512": "sha512-gdRrUJs1RrjW3JB5p82hYjA67xoeFLvh0SdSIWjTiN8qExlbFt/RtXwVYNc5BukJ/f9OKzQQS6gakzbJeHTqHg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
+>>>>>>> Update setups
       "path": "system.numerics.vectors/4.4.0",
       "hashPath": "system.numerics.vectors.4.4.0.nupkg.sha512"
     },
@@ -13585,10 +14477,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-bdX+80eKv9bN6K4N+d77OankKHGn6CH711a6fcOpMQu2Fckp/Ft4L/kW9WznHpyR0NRAvJutzOMHNNlBGvxQzQ==",
 =======
       "sha512": "sha512-tAe1He4MGk4a7mFwvEVbsha0TQnb/u49NTZ4OGGiGvy/L4VUNqAeFFGzeqNfOp4OlDCkeq0oo7rEJ1fZ2yjU5w==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-bdX+80eKv9bN6K4N+d77OankKHGn6CH711a6fcOpMQu2Fckp/Ft4L/kW9WznHpyR0NRAvJutzOMHNNlBGvxQzQ==",
+>>>>>>> Update setups
       "path": "system.objectmodel/4.3.0",
       "hashPath": "system.objectmodel.4.3.0.nupkg.sha512"
     },
@@ -13603,10 +14499,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
 =======
       "sha512": "sha512-E4x33ezYIDUlrSUlMgKAqgpGAyQSANkTBX9HVDhmKorwyk3OemvZRBy9CFVBSbU/fVub7kuwerel8NN0dyarpg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+>>>>>>> Update setups
       "path": "system.reflection/4.3.0",
       "hashPath": "system.reflection.4.3.0.nupkg.sha512"
     },
@@ -13614,10 +14514,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
 =======
       "sha512": "sha512-CSgezQql8gDznkSa6ynrQ84OeDPodILhiMRA5QKxA09G+gymuDMhgz7fJuSdOBGKnr/DaKek0+WCUkaeYdVFxA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
+>>>>>>> Update setups
       "path": "system.reflection.emit/4.3.0",
       "hashPath": "system.reflection.emit.4.3.0.nupkg.sha512"
     },
@@ -13625,10 +14529,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
 =======
       "sha512": "sha512-XShgErqsvf/g8GGOAG5KLbbHoG4GT924CEBczGuS54wNoTG7kuod6mr+uT5V6enY+FYbfbfVq66vZIJMFlnNjQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
+>>>>>>> Update setups
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "hashPath": "system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512"
     },
@@ -13636,10 +14544,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
 =======
       "sha512": "sha512-QumlQgzP8KuAl6eo1ewjhbPTrLM6PIa4yEmwRShp4gP2MvWTWnAh1Y/DSwR3HkgRElh8qE77PshQ4f5nA0Vazg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
+>>>>>>> Update setups
       "path": "system.reflection.emit.lightweight/4.3.0",
       "hashPath": "system.reflection.emit.lightweight.4.3.0.nupkg.sha512"
     },
@@ -13647,10 +14559,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-rJkrJD3kBI5B712aRu4DpSIiHRtr6QlfZSQsb0hYHrDCZORXCFjQfoipo2LaMUHoT9i1B7j7MnfaEKWDFmFQNQ==",
 =======
       "sha512": "sha512-0v6BK9Hb+cHnr9CCXgmAY6IiFMOOvyrTN/m9yVYG3KaHhRGXOB95KKoMlsU9rFbQ3ATJkX30oCqsvhrBTVqPNA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-rJkrJD3kBI5B712aRu4DpSIiHRtr6QlfZSQsb0hYHrDCZORXCFjQfoipo2LaMUHoT9i1B7j7MnfaEKWDFmFQNQ==",
+>>>>>>> Update setups
       "path": "system.reflection.extensions/4.3.0",
       "hashPath": "system.reflection.extensions.4.3.0.nupkg.sha512"
     },
@@ -13658,10 +14574,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-423hF/x1/1/aBT6hjgrp8RH2zdKOd1iTujlHisSesTW/cgv1ixUitfk23ZknVzItMm6jnwp9CBwI2P3r9jpitw==",
 =======
       "sha512": "sha512-3S0g/csc0aq+LtIssSzTycIMtyt3v6h16iR9s4aWoqZ+Nj/GuWKdUjfl7rwc0vHdlggiXdo39v1t4vpwWJmYTQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-423hF/x1/1/aBT6hjgrp8RH2zdKOd1iTujlHisSesTW/cgv1ixUitfk23ZknVzItMm6jnwp9CBwI2P3r9jpitw==",
+>>>>>>> Update setups
       "path": "system.reflection.metadata/1.5.0",
       "hashPath": "system.reflection.metadata.1.5.0.nupkg.sha512"
     },
@@ -13669,10 +14589,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
 =======
       "sha512": "sha512-oDHJFX+F4ioSrwFoClG0cfkFOArAvmr5eCLQJDJhnIbljNtHGs0vn1QHfeSuwMADKvjVT/jLbZfP1coIpqR7uQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+>>>>>>> Update setups
       "path": "system.reflection.primitives/4.3.0",
       "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
     },
@@ -13680,10 +14604,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
 =======
       "sha512": "sha512-PgLOJ5FhHgiH3YJ3eZt5wkk5pOf9yZNut0/0t/okPUlgpQ70xBpvMvdCiLKnsf8FapEKYkP1Rvxqr2ACFM8wpQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
+>>>>>>> Update setups
       "path": "system.reflection.typeextensions/4.3.0",
       "hashPath": "system.reflection.typeextensions.4.3.0.nupkg.sha512"
     },
@@ -13691,10 +14619,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
 =======
       "sha512": "sha512-veUh8ZEfIYzo15uXRXZ6tJbVCJcDEzW2GWjat5qy+DT3uCH5QkDJvRIzknnP5Q7/mMhrUH2qUf+j/KLTp6KEYw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
+>>>>>>> Update setups
       "path": "system.resources.resourcemanager/4.3.0",
       "hashPath": "system.resources.resourcemanager.4.3.0.nupkg.sha512"
     },
@@ -13702,10 +14634,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
 =======
       "sha512": "sha512-V9PjEW4FFo/fGDq7gHI5sTte7GiQHZWv2kXIl9Zok4LzCazjU3tmurAv1RPXLxOrIpCg+cXylz5IqvZFIdSf5Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+>>>>>>> Update setups
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
     },
@@ -13713,10 +14649,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
 =======
       "sha512": "sha512-0D85ti9IcUxWql213d4WE+f2JjNzRzHmEaG34qiA3hD7G8O4i0Mgr+Rutkn4pmrbrW+ABY4vzpECgHmdw+vTjQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
+>>>>>>> Update setups
       "path": "system.runtime.compilerservices.unsafe/4.4.0",
       "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
     },
@@ -13724,10 +14664,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
 =======
       "sha512": "sha512-I7K5PV5bG8WaXR5sppjjbjEwKmkT2L12Y0S0L0KXV5yt4cblKLsB36BKFoIKsnITynCg2VteJ30gxz16fNDZsA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+>>>>>>> Update setups
       "path": "system.runtime.extensions/4.3.0",
       "hashPath": "system.runtime.extensions.4.3.0.nupkg.sha512"
     },
@@ -13735,10 +14679,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-OKiSUN7DmTWeYb3l51A7EYaeNMnvxwE249YtZz7yooT4gOZhmTjIn48KgSsw2k2lYdLgTKNJw/ZIfSElwDRVgg==",
 =======
       "sha512": "sha512-XXmcrsOGLmMn+RlAniqKVct7SdipVFd0Zrr8DoJuEaxXF90pI6a9m/fCtWDk9vGMfGuG/zqpbfmGYkSv18lwDw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-OKiSUN7DmTWeYb3l51A7EYaeNMnvxwE249YtZz7yooT4gOZhmTjIn48KgSsw2k2lYdLgTKNJw/ZIfSElwDRVgg==",
+>>>>>>> Update setups
       "path": "system.runtime.handles/4.3.0",
       "hashPath": "system.runtime.handles.4.3.0.nupkg.sha512"
     },
@@ -13746,10 +14694,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-uv1ynXqiMK8mp1GM3jDqPCFN66eJ5w5XNomaK2XD+TuCroNTLFGeZ+WCmBMcBDyTFKou3P6cR6J/QsaqDp7fGQ==",
 =======
       "sha512": "sha512-hnDh7nVSRMDH3op/O4VBHP4z8flEWHx7BvexubaVcFpRYvlXvQ1lqZfFellWV9H+P6mxg1mDodL/YTdozGqEpw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-uv1ynXqiMK8mp1GM3jDqPCFN66eJ5w5XNomaK2XD+TuCroNTLFGeZ+WCmBMcBDyTFKou3P6cR6J/QsaqDp7fGQ==",
+>>>>>>> Update setups
       "path": "system.runtime.interopservices/4.3.0",
       "hashPath": "system.runtime.interopservices.4.3.0.nupkg.sha512"
     },
@@ -13757,10 +14709,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cbz4YJMqRDR7oLeMRbdYv7mYzc++17lNhScCX0goO2XpGWdvAt60CGN+FHdePUEHCe/Jy9jUlvNAiNdM+7jsOw==",
 =======
       "sha512": "sha512-Bth6+bfLSkn5bci0gWfCHtTPYxm1ThoeCIG898Lbx2Y2aGdkLFujRQR9XJVKpyqqaULOTBLZnCuprMnXTKPIuw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cbz4YJMqRDR7oLeMRbdYv7mYzc++17lNhScCX0goO2XpGWdvAt60CGN+FHdePUEHCe/Jy9jUlvNAiNdM+7jsOw==",
+>>>>>>> Update setups
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "hashPath": "system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
     },
@@ -13768,10 +14724,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-yMH+MfdzHjy17l2KESnPiF2dwq7T+xLnSJar7slyimAkUh/gTrS9/UQOtv7xarskJ2/XDSNvfLGOBQPjL7PaHQ==",
 =======
       "sha512": "sha512-Je82jidMuyTk+483p3eSJAof2gMcAGXvie1TdbOJApSsTxkUxqWnwPQ9/OqmWft502rx4Gd5wrzd4GTCsQ/Bfg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-yMH+MfdzHjy17l2KESnPiF2dwq7T+xLnSJar7slyimAkUh/gTrS9/UQOtv7xarskJ2/XDSNvfLGOBQPjL7PaHQ==",
+>>>>>>> Update setups
       "path": "system.runtime.numerics/4.3.0",
       "hashPath": "system.runtime.numerics.4.3.0.nupkg.sha512"
     },
@@ -13793,10 +14753,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
 =======
       "sha512": "sha512-vtIMHh2hnljmZcXYEC1BYPjpVd/AU6bREN4icBPv27DkKMx3wOY8zHnkw5y5fiTpwO0Xp4mhnJdlJWoO5UZijg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+>>>>>>> Update setups
       "path": "system.runtime.serialization.primitives/4.3.0",
       "hashPath": "system.runtime.serialization.primitives.4.3.0.nupkg.sha512"
     },
@@ -13804,10 +14768,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-2NRFPX/V81ucKQmqNgGBZrKGH/5ejsvivSGMRum0SMgPnJxwhuNkzVS1+7gC3R2X0f57CtwrPrXPPSe6nOp82g==",
 =======
       "sha512": "sha512-UPF+s4KctOCpk7dpBe3QtZ1AzFEHKdhOtiNDLxGnD/nxKsVbsow5OClTy8c7yOObw/Evbv95xRwZfYZ4wLV4fA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-2NRFPX/V81ucKQmqNgGBZrKGH/5ejsvivSGMRum0SMgPnJxwhuNkzVS1+7gC3R2X0f57CtwrPrXPPSe6nOp82g==",
+>>>>>>> Update setups
       "path": "system.security.accesscontrol/4.4.0",
       "hashPath": "system.security.accesscontrol.4.4.0.nupkg.sha512"
     },
@@ -13815,10 +14783,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-P/+BR/2lnc4PNDHt/TPBAWHVMLMRHsyYZbU1NphW4HIWzCggz8mJbTQQ3MKljFE7LS3WagmVFuBgoLcFzYXlkA==",
 =======
       "sha512": "sha512-KH22ko4lDM6moc4+g9Kpoaq3/Rm/01eF/J/670nat52JKFnC0vlLBz98e2FgqK3qQaxJqk3RPweWp0SVv77iiw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-P/+BR/2lnc4PNDHt/TPBAWHVMLMRHsyYZbU1NphW4HIWzCggz8mJbTQQ3MKljFE7LS3WagmVFuBgoLcFzYXlkA==",
+>>>>>>> Update setups
       "path": "system.security.claims/4.3.0",
       "hashPath": "system.security.claims.4.3.0.nupkg.sha512"
     },
@@ -13826,10 +14798,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
 =======
       "sha512": "sha512-pIP/7rHppbMUdGJfjFi0Qq39xhz4sb6trn9BLYJU5TyFcO/0NLm0iCNQ/ygkosK+2vZIWv23QQWWUkuuaPR35A==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.algorithms/4.3.0",
       "hashPath": "system.security.cryptography.algorithms.4.3.0.nupkg.sha512"
     },
@@ -13837,10 +14813,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-03idZOqFlsKRL4W+LuCpJ6dBYDUWReug6lZjBa3uJWnk5sPCUXckocevTaUA8iT/MFSrY/2HXkOt753xQ/cf8g==",
 =======
       "sha512": "sha512-skM52vtHEx6qkIBpAAkEzcOc1Ek/L9PWjkArrbBbbxEJESFFA+mUOYI081WaAotR3X+e+OBo0eEQ6he+b/tBtQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-03idZOqFlsKRL4W+LuCpJ6dBYDUWReug6lZjBa3uJWnk5sPCUXckocevTaUA8iT/MFSrY/2HXkOt753xQ/cf8g==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.cng/4.3.0",
       "hashPath": "system.security.cryptography.cng.4.3.0.nupkg.sha512"
     },
@@ -13848,10 +14828,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-X4s/FCkEUnRGnwR3aSfVIkldBmtURMhmexALNTwpjklzxWU7yjMk7GHLKOZTNkgnWnE0q7+BCf9N2LVRWxewaA==",
 =======
       "sha512": "sha512-xNzy1jo4EccO6nOeKZF8sbx1/3UpFJEuzsgZMRPzXx41rdApSPgRdSv9S9AbEng7aakGqzuxMhTcQHDlXmdZVQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-X4s/FCkEUnRGnwR3aSfVIkldBmtURMhmexALNTwpjklzxWU7yjMk7GHLKOZTNkgnWnE0q7+BCf9N2LVRWxewaA==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.csp/4.3.0",
       "hashPath": "system.security.cryptography.csp.4.3.0.nupkg.sha512"
     },
@@ -13859,10 +14843,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-1DEWjZZly9ae9C79vFwqaO5kaOlI5q+3/55ohmq/7dpDyDfc8lYe7YVxJUZ5MF/NtbkRjwFRo14yM4OEo9EmDw==",
 =======
       "sha512": "sha512-qJEC/jV7MJzfneluIvPjF/IFBIm/ERySKuW38HzHAGI6yS8h794aEVgruYsrjED7aHH82mM512Trm81LBFyftA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-1DEWjZZly9ae9C79vFwqaO5kaOlI5q+3/55ohmq/7dpDyDfc8lYe7YVxJUZ5MF/NtbkRjwFRo14yM4OEo9EmDw==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.encoding/4.3.0",
       "hashPath": "system.security.cryptography.encoding.4.3.0.nupkg.sha512"
     },
@@ -13870,10 +14858,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
 =======
       "sha512": "sha512-S7klyJvzZb/vnuF87VnGMP3/KiNVY6ZON04L059bvGhsnTUsCx6T8+fjKEcni+N+w4gGgUH8ZRN9fMJYftMX4g==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.openssl/4.3.0",
       "hashPath": "system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
@@ -13881,10 +14873,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-7bDIyVFNL/xKeFHjhobUAQqSpJq9YTOpbEs6mR233Et01STBMXNAc/V+BM6dwYGc95gVh/Zf+iVXWzj3mE8DWg==",
 =======
       "sha512": "sha512-CthUP1r1mDLuseum81Lo6WPmvxggzn4M106JuCaLZExvrwsAJASmfqGux8S4fR9yUbxSuz467RjLgmU11+JWUw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-7bDIyVFNL/xKeFHjhobUAQqSpJq9YTOpbEs6mR233Et01STBMXNAc/V+BM6dwYGc95gVh/Zf+iVXWzj3mE8DWg==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.primitives/4.3.0",
       "hashPath": "system.security.cryptography.primitives.4.3.0.nupkg.sha512"
     },
@@ -13892,10 +14888,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
 =======
       "sha512": "sha512-tal/qxMnTX2/mhUMTlQbj6Jr2vhX7bFElcEOoPdn0YayXhjJRj0jrBYIV4wfOAb3hIO6k9QnFb7QDWl7utdApA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.x509certificates/4.3.0",
       "hashPath": "system.security.cryptography.x509certificates.4.3.0.nupkg.sha512"
     },
@@ -13903,10 +14903,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
 =======
       "sha512": "sha512-nOb0i7lwyq2Slrefa+RVtqbbnoO+2MbZfzDgIdg1nmvZmNuOix/eMIqR1RH4ekLDkSP02oiNOoJZ/87TOw+7pA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
+>>>>>>> Update setups
       "path": "system.security.cryptography.xml/4.4.2",
       "hashPath": "system.security.cryptography.xml.4.4.2.nupkg.sha512"
     },
@@ -13914,10 +14918,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-I1tkfQlAoMM2URscUtpcRo/hX0jinXx6a/KUtEQoz3owaYwl3qwsO8cbzYVVnjxrzxjHo3nJC+62uolgeGIS9A==",
 =======
       "sha512": "sha512-frYnsVRqLOswrrKRuXvfQqY/EP6ZopZcM8ipGHEeR0kg1ne2TCDQo+IcQPYsFGlujbDBo8ifFERf2eXYk9n3tw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-I1tkfQlAoMM2URscUtpcRo/hX0jinXx6a/KUtEQoz3owaYwl3qwsO8cbzYVVnjxrzxjHo3nJC+62uolgeGIS9A==",
+>>>>>>> Update setups
       "path": "system.security.principal/4.3.0",
       "hashPath": "system.security.principal.4.3.0.nupkg.sha512"
     },
@@ -13925,10 +14933,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-pP+AOzt1o3jESOuLmf52YQTF7H3Ng9hTnrOESQiqsnl2IbBh1HInsAMHYtoh75iUYV0OIkHmjvveraYB6zM97w==",
 =======
       "sha512": "sha512-ynC5BKYwhgON6WH/yPM5ZLKc19wqC13A5fl4hZa5Lf8pQwv1YmbCPKGualWSRhEoOVWH2FzZhOXauER6al4Upg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-pP+AOzt1o3jESOuLmf52YQTF7H3Ng9hTnrOESQiqsnl2IbBh1HInsAMHYtoh75iUYV0OIkHmjvveraYB6zM97w==",
+>>>>>>> Update setups
       "path": "system.security.principal.windows/4.4.0",
       "hashPath": "system.security.principal.windows.4.4.0.nupkg.sha512"
     },
@@ -13943,10 +14955,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
 =======
       "sha512": "sha512-Peab0NwOsbppdmUwQiO+y12MMM5niptUNkx8RxxJQeEV9g+esA/bQebOnl0aj+2jLetoD+QRcCS9rGzDHqMEbA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+>>>>>>> Update setups
       "path": "system.text.encoding/4.3.0",
       "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
     },
@@ -13954,10 +14970,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
 =======
       "sha512": "sha512-FpAgMC+BX6OOCiRebYqHP3r3aYU7o0lopPOo4zKyGc5LWXFEYRUaKtoXXvAJ3sP+IDOK/KBxZaiVAdi+QdZ0TA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+>>>>>>> Update setups
       "path": "system.text.encoding.codepages/4.4.0",
       "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
     },
@@ -13965,10 +14985,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-YVMK0Bt/A43RmwizJoZ22ei2nmrhobgeiYwFzC4YAN+nue8RF6djXDMog0UCn+brerQoYVyaS+ghy9P/MUVcmw==",
 =======
       "sha512": "sha512-yngY6pNMHLZJKOw79AN4WKwqzZL7cKdpxFWmaDJVVMt4WDJTNpBe4aOUZO/r+l0tgTN0sFvxL+QMGinKH1iYug==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-YVMK0Bt/A43RmwizJoZ22ei2nmrhobgeiYwFzC4YAN+nue8RF6djXDMog0UCn+brerQoYVyaS+ghy9P/MUVcmw==",
+>>>>>>> Update setups
       "path": "system.text.encoding.extensions/4.3.0",
       "hashPath": "system.text.encoding.extensions.4.3.0.nupkg.sha512"
     },
@@ -13976,10 +15000,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-l/tYeikqMHX2MD2jzrHDfR9ejrpTTF7wvAEbR51AMvzip1wSJgiURbDik4iv/w7ZgytmTD/hlwpplEhF9bmFNw==",
 =======
       "sha512": "sha512-t9sy+jX5nm8IairT4espzjfvz0nwER4GVmnFKLvA2TkahtBXIDoUsS+ljfSMuIT3rejXylXmQkhom3YRTpuTCA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-l/tYeikqMHX2MD2jzrHDfR9ejrpTTF7wvAEbR51AMvzip1wSJgiURbDik4iv/w7ZgytmTD/hlwpplEhF9bmFNw==",
+>>>>>>> Update setups
       "path": "system.text.encodings.web/4.4.0",
       "hashPath": "system.text.encodings.web.4.4.0.nupkg.sha512"
     },
@@ -13987,10 +15015,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-RpT2DA+L660cBt1FssIE9CAGpLFdFPuheB7pLpKpn6ZXNby7jDERe8Ua/Ne2xGiwLVG2JOqziiaVCGDon5sKFA==",
 =======
       "sha512": "sha512-apMake0Ih2Dab471+QhlQO68KVk47NV+Rljr0lVileHKs+7fP5bmNOTU5FDdqLLVNttpYioP/iUce9Gsp3oYVw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-RpT2DA+L660cBt1FssIE9CAGpLFdFPuheB7pLpKpn6ZXNby7jDERe8Ua/Ne2xGiwLVG2JOqziiaVCGDon5sKFA==",
+>>>>>>> Update setups
       "path": "system.text.regularexpressions/4.3.0",
       "hashPath": "system.text.regularexpressions.4.3.0.nupkg.sha512"
     },
@@ -13998,10 +15030,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
 =======
       "sha512": "sha512-qF3jIS8V521xKde1H+fSPYmD3x/NUwJ4FH32OEezG0sU2Q5fk7ZovQ64VnJj3E3u2ctrcrVT3iT2ss78qi5mZA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
+>>>>>>> Update setups
       "path": "system.threading/4.3.0",
       "hashPath": "system.threading.4.3.0.nupkg.sha512"
     },
@@ -14009,10 +15045,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
 =======
       "sha512": "sha512-tTia/xWGJXP553H4EZTKYIPa3JxpfqepbZUlnabjiEcpuEUuL91AJHa2Z9ZqeSFhf17frxO5FfKYUixJ+S5Jlg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+>>>>>>> Update setups
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
@@ -14020,10 +15060,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-SPKfFGbpQsK5Srz2Kq3URgvC90yoOyBE8H1quDA2+MAJ2HAzFmV3biOgPv2Ck3mPAvdKngo3QHi2BNwUQDRVvA==",
 =======
       "sha512": "sha512-lPQSed6uHvDSnBd8yvsKVL+B5RrccIC58a6No9eQfXBgM9L6kSoBzS5Gq30EjyS1bEXCknGuRzMcD9DMrRUqbg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-SPKfFGbpQsK5Srz2Kq3URgvC90yoOyBE8H1quDA2+MAJ2HAzFmV3biOgPv2Ck3mPAvdKngo3QHi2BNwUQDRVvA==",
+>>>>>>> Update setups
       "path": "system.threading.tasks.extensions/4.4.0",
       "hashPath": "system.threading.tasks.extensions.4.4.0.nupkg.sha512"
     },
@@ -14031,10 +15075,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
 =======
       "sha512": "sha512-fny9PsFdYycP2FV9DO45EkUWCCwGHeLoQc+kLM4dqchu2QUR82NjChzgNzhcV/XMwigvZJHB+mQiFP6V/EE0Tw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
+>>>>>>> Update setups
       "path": "system.threading.tasks.parallel/4.3.0",
       "hashPath": "system.threading.tasks.parallel.4.3.0.nupkg.sha512"
     },
@@ -14042,10 +15090,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
 =======
       "sha512": "sha512-bPJjdgMUSJ3XLvhEzjD1QHLWY3uqEd0efNGi9iH6JPHXWJI3METuvIPE24oN4w8/7LZ923o2nzDy4PTjA2yNUg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
+>>>>>>> Update setups
       "path": "system.threading.thread/4.3.0",
       "hashPath": "system.threading.thread.4.3.0.nupkg.sha512"
     },
@@ -14053,10 +15105,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
 =======
       "sha512": "sha512-3NXuJ8uk28pbQxn1E4bnuUs0Fx3kyZ9Vz99fp35nfP4NcfaW6VUc3OhwO1gywI9nwYXHKQCn896X9X2m1G+lHA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
+>>>>>>> Update setups
       "path": "system.threading.threadpool/4.3.0",
       "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
     },
@@ -14064,10 +15120,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-Z6YfyYTCg7lOZjJzBjONJTFKGN9/NIYKSxhU5GRd+DTwHSZyvWp1xuI5aR+dLg+ayyC5Xv57KiY4oJ0tMO89fQ==",
 =======
       "sha512": "sha512-Yk6h2g9MAqe+KIh6lcoylWeie3hCFtyHfnkb3L9oSFsL3j2sPGiDnTpXYlinacBYL0zoNiWlkM5uk4C6wXpsDg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-Z6YfyYTCg7lOZjJzBjONJTFKGN9/NIYKSxhU5GRd+DTwHSZyvWp1xuI5aR+dLg+ayyC5Xv57KiY4oJ0tMO89fQ==",
+>>>>>>> Update setups
       "path": "system.threading.timer/4.3.0",
       "hashPath": "system.threading.timer.4.3.0.nupkg.sha512"
     },
@@ -14075,10 +15135,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
 =======
       "sha512": "sha512-hBl0/yPqtMnwrsqCYSxYr4Abvo9hSVYmf+55EniEMyCEPJRM1VGr8o+kHeHJdEqgr6wrQMhZ7HowYmejruXStg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
+>>>>>>> Update setups
       "path": "system.valuetuple/4.4.0",
       "hashPath": "system.valuetuple.4.4.0.nupkg.sha512"
     },
@@ -14086,10 +15150,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-GrprA+Z0RUXaR4N7/eW71j1rgMnEnEVlgii49GZyAjTH7uliMnrOU3HNFBr6fEDBCJCIdlVNq9hHbaDR621XBA==",
 =======
       "sha512": "sha512-Sv8KBC93RlcvL7wcFBXkBDDPxs2aBX2eAQA9XA9NS8t0gZrZaLs3jOMgrjY48SXlVbAcMqzYHf3fXmdKol1f9Q==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-GrprA+Z0RUXaR4N7/eW71j1rgMnEnEVlgii49GZyAjTH7uliMnrOU3HNFBr6fEDBCJCIdlVNq9hHbaDR621XBA==",
+>>>>>>> Update setups
       "path": "system.xml.readerwriter/4.3.0",
       "hashPath": "system.xml.readerwriter.4.3.0.nupkg.sha512"
     },
@@ -14097,10 +15165,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
 =======
       "sha512": "sha512-lX/JocDMNpIqpZACud/XYx9h+lBfCmygkPk5MoKtJeX0cIClGK+3Hmr65YNLTRhxacQZ3OgF+0fUMCxh7JFHSQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
+>>>>>>> Update setups
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
@@ -14136,10 +15208,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
 =======
       "sha512": "sha512-KXblJ3XWzUORNFiIoItmK/sOFIa3aKdjXSpdiCpYmqUKeFt6BQ1pDoGqeynvmuwLqlqp6/+RCXnW+Fix1bPWxQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
+>>>>>>> Update setups
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
@@ -14147,10 +15223,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
 =======
       "sha512": "sha512-aEj44yEbsK+XlDwPNSM7CeaYDg33NMk492y2kFRIOMPOVmXvXNO0LTDm8lUhS4Jlm2uNFsIDDH4ggt9lnSDejQ==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.app/2.0.0",
       "hashPath": "microsoft.netcore.app.2.0.0.nupkg.sha512"
     },
@@ -14158,10 +15238,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
 =======
       "sha512": "sha512-dYQNVWNBsO9LldqAyJTt/wYUq2BScXq3ENBaNUjELS3sT53mwrgyPpmoLHsE7H10RzYOHEl5G0sg/jpZGlIAzA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "hashPath": "microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512"
     },
@@ -14169,10 +15253,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
 =======
       "sha512": "sha512-RAMrQqBFMiF4dbpHJEvcwwXG+ISoKRck8zXlfr49waPc7xllEpv/ANHi4c3pCTkVIdNNSdDYf71YjbkaRSHJgg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "hashPath": "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512"
     },
@@ -14180,10 +15268,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
 =======
       "sha512": "sha512-LrZ1AcFJF7+da03Is+5RKdqjnDVNnoi1MBRAi4LRif3uO9rRntfNUezeNcG/OO/yGYzyEwGJkioyw8ZWGJiKWg==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "hashPath": "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512"
     },
@@ -14191,10 +15283,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
 =======
       "sha512": "sha512-5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+>>>>>>> Update setups
       "path": "microsoft.netcore.platforms/2.0.0",
       "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
     },
@@ -14202,10 +15298,14 @@
       "type": "package",
       "serviceable": true,
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
 =======
       "sha512": "sha512-49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
 >>>>>>> Updated project setups
+=======
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+>>>>>>> Update setups
       "path": "netstandard.library/2.0.0",
       "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
     }

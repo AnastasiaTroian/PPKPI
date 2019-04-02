@@ -1,4 +1,7 @@
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
+=======
+>>>>>>> Update setups
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.deps.json
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.runtimeconfig.json
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.runtimeconfig.dev.json
@@ -10,6 +13,7 @@ D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreap
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.AssemblyInfo.cs
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.dll
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.pdb
+<<<<<<< refs/remotes/origin/master
 =======
 <<<<<<< refs/remotes/origin/master
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.deps.json
@@ -36,4 +40,9 @@ C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.dll
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.pdb
 >>>>>>> Updated project setups
+<<<<<<< refs/remotes/origin/master
 >>>>>>> Updated project setups
+=======
+=======
+>>>>>>> Update setups
+>>>>>>> Update setups

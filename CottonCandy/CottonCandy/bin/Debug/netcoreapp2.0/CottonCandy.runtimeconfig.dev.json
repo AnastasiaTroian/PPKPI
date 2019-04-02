@@ -12,12 +12,17 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
       "C:\\Users\\Ноутбук\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Ноутбук\\.nuget\\packages",
 =======
       "C:\\Users\\Анастасія\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Анастасія\\.nuget\\packages",
 >>>>>>> Updated project setups
+=======
+      "C:\\Users\\Ноутбук\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ноутбук\\.nuget\\packages",
+>>>>>>> Update setups
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
