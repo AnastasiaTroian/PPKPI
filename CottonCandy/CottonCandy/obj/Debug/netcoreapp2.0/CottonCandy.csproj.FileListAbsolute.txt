@@ -1,0 +1,11 @@
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.deps.json
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.runtimeconfig.json
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.runtimeconfig.dev.json
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.dll
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.pdb
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.csprojAssemblyReference.cache
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.csproj.CoreCompileInputs.cache
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.AssemblyInfoInputs.cache
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.AssemblyInfo.cs
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.dll
+D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.pdb
