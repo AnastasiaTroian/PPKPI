@@ -1,5 +1,6 @@
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
 =======
 >>>>>>> Update setups
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.deps.json
@@ -15,6 +16,8 @@ D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreap
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.pdb
 <<<<<<< refs/remotes/origin/master
 =======
+=======
+>>>>>>> Bugs checks
 <<<<<<< refs/remotes/origin/master
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.deps.json
 D:\Навчання\ППКПІ\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.runtimeconfig.json
@@ -35,14 +38,21 @@ C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\bin\Debug\netcoreapp2.0\CottonCandy.pdb
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.csprojAssemblyReference.cache
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.csproj.CoreCompileInputs.cache
+<<<<<<< refs/remotes/origin/master
+=======
+C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+>>>>>>> Bugs checks
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.AssemblyInfoInputs.cache
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.AssemblyInfo.cs
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.dll
 C:\Users\Анастасія\Desktop\Університет\3 курс\ППКПІ\PROJECT\PPKPI\CottonCandy\CottonCandy\obj\Debug\netcoreapp2.0\CottonCandy.pdb
+<<<<<<< refs/remotes/origin/master
 >>>>>>> Updated project setups
 <<<<<<< refs/remotes/origin/master
 >>>>>>> Updated project setups
 =======
 =======
 >>>>>>> Update setups
+=======
+>>>>>>> Bugs checks
 >>>>>>> Update setups

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CottonCandy", "CottonCandy\CottonCandy.csproj", "{A7AD9825-6368-4C47-BAD2-C405DC19C502}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CottonCandy", "CottonCandy\CottonCandy.csproj", "{3BB8D6CE-6875-4F19-B487-EE8A4DE0FC22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7AD9825-6368-4C47-BAD2-C405DC19C502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7AD9825-6368-4C47-BAD2-C405DC19C502}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7AD9825-6368-4C47-BAD2-C405DC19C502}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7AD9825-6368-4C47-BAD2-C405DC19C502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB8D6CE-6875-4F19-B487-EE8A4DE0FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB8D6CE-6875-4F19-B487-EE8A4DE0FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB8D6CE-6875-4F19-B487-EE8A4DE0FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB8D6CE-6875-4F19-B487-EE8A4DE0FC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F9718A99-1BF9-404E-AF42-14A4EA458709}
+		SolutionGuid = {29977838-D02F-43D9-943A-CEEB4E386EF2}
 	EndGlobalSection
 EndGlobal
